@@ -1,0 +1,150 @@
+[
+  {
+    "query_id": "D01",
+    "split": "dev",
+    "answerable": true,
+    "method": "bm25",
+    "status": "abstain",
+    "answer": "AMD Ryzen 3 8300G là bộ xử lý máy tính để bàn với 4 nhân [amd-ryzen-3-8300g-p1-paragraph-3].",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "AMD Ryzen 3 8300G số nhân",
+        "filters": null,
+        "results": [
+          {
+            "id": "amd-ryzen-3-8300g-p1-paragraph-3",
+            "source_id": "amd-ryzen-3-8300g",
+            "source": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 3 8300G.html",
+            "page": 1,
+            "text": "The AMD Ryzen 3 8300G is a desktop processor with 4 cores, launched in January 2024, at an MSRP of $176. It is part of the Ryzen 3 lineup, using the Zen 4 (Phoenix) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 8 threads. Ryzen 3 8300G has 8 MB of L3 cache and operates at 3.4 GHz by default, but can boost up to 4.9 GHz, depending on the workload. AMD is building the Ryzen 3 8300G on a 4 nm production process using 20.9 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. The multiplier is locked on Ryzen 3 8300G, which limits its overclocking capabilities.\nWith a TDP of 65 W, the Ryzen 3 8300G consumes typical power levels for a modern PC. AMD's processor supports DDR5 memory with a dual-channel interface. The highest officially supported memory speed is 5200 MT/s, but with overclocking",
+            "metadata": {
+              "title": "AMD Ryzen 3 8300G Specs | TechPowerUp CPU Database",
+              "source_path": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 3 8300G.html",
+              "source_unit_type": "html_document",
+              "character_count": 7370,
+              "extraction_status": "success",
+              "series": "Ryzen 3",
+              "architecture": "Zen 4",
+              "socket": "AMD Socket AM5",
+              "codename": "Phoenix2",
+              "released": "Jan 8th, 2024",
+              "memory_type": "DDR5",
+              "memory_channels": "Dual-channel",
+              "memory_bandwidth": "83.2 GB/s",
+              "cache_l1": "64 KB (per core)",
+              "cache_l2": "1 MB (per core)",
+              "cache_l3": "8 MB (shared)",
+              "process_nm": 4,
+              "base_clock_ghz": 3.4,
+              "boost_clock_ghz": 4.9,
+              "tdp_w": 65,
+              "memory_speed_mts": 5200,
+              "cores": 4,
+              "threads": 8,
+              "ecc_memory": true
+            },
+            "score": 8.933091678710761,
+            "strategy": "bm25"
+          },
+          {
+            "id": "amd-ryzen-3-pro-8300g-p1-paragraph-3",
+            "source_id": "amd-ryzen-3-pro-8300g",
+            "source": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 3 PRO 8300G.html",
+            "page": 1,
+            "text": "The AMD Ryzen 3 PRO 8300G is a desktop processor with 4 cores, launched in April 2024. It is part of the Ryzen 3 lineup, using the Zen 4 (Phoenix) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 8 threads. Ryzen 3 PRO 8300G has 8 MB of L3 cache and operates at 3.4 GHz by default, but can boost up to 4.9 GHz, depending on the workload. AMD is building the Ryzen 3 PRO 8300G on a 4 nm production process using 20.9 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. The multiplier is locked on Ryzen 3 PRO 8300G, which limits its overclocking capabilities.\nWith a TDP of 65 W, the Ryzen 3 PRO 8300G consumes typical power levels for a modern PC. AMD's processor supports DDR5 memory with a dual-channel interface. The highest officially supported memory speed is 5200 MT/s, but with overclocking (",
+            "metadata": {
+              "title": "AMD Ryzen 3 PRO 8300G Specs | TechPowerUp CPU Database",
+              "source_path": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 3 PRO 8300G.html",
+              "source_unit_type": "html_document",
+              "character_count": 7578,
+              "extraction_status": "success",
+              "series": "Ryzen 3",
+              "architecture": "Zen 4",
+              "socket": "AMD Socket AM5",
+              "codename": "Phoenix2",
+              "released": "Apr 16th, 2024",
+              "memory_type": "DDR5",
+              "memory_channels": "Dual-channel",
+              "memory_bandwidth": "83.2 GB/s",
+              "cache_l1": "64 KB (per core)",
+              "cache_l2": "1 MB (per core)",
+              "cache_l3": "8 MB (shared)",
+              "process_nm": 4,
+              "base_clock_ghz": 3.4,
+              "boost_clock_ghz": 4.9,
+              "tdp_w": 65,
+              "memory_speed_mts": 5200,
+              "cores": 4,
+              "threads": 8,
+              "ecc_memory": true
+            },
+            "score": 8.933091678710761,
+            "strategy": "bm25"
+          },
+          {
+            "id": "amd-ryzen-3-8300g-p1-paragraph-2",
+            "source_id": "amd-ryzen-3-8300g",
+            "source": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 3 8300G.html",
+            "page": 1,
+            "text": "Modder Fits RTX 5090 With Four 8-Pin Connectors, Halving Current per Wire\n(80)\n\nCPU Database\n\nAMD Ryzen 3\n\nAMD Ryzen 3 8300G Specs\n\nReport an Error\n\nAMD Ryzen 3 8300G\n\n4\n\nCores\n\n8\n\nThreads\n\n65 W\n\nTDP\n\n3.4 GHz\n\nFrequency\n\n4.9 GHz\n\nBoost\n\nPhoenix2\n\nCodename\n\nSocket AM5\n\nSocket\n\nFront\n\nConnectivity\n\nAMD Socket AM5",
+            "metadata": {
+              "title": "AMD Ryzen 3 8300G Specs | TechPowerUp CPU Database",
+              "source_path": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 3 8300G.html",
+              "source_unit_type": "html_document",
+              "character_count": 7370,
+              "extraction_status": "success",
+              "series": "Ryzen 3",
+              "architecture": "Zen 4",
+              "socket": "AMD Socket AM5",
+              "codename": "Phoenix2",
+              "released": "Jan 8th, 2024",
+              "memory_type": "DDR5",
+              "memory_channels": "Dual-channel",
+              "memory_bandwidth": "83.2 GB/s",
+              "cache_l1": "64 KB (per core)",
+              "cache_l2": "1 MB (per core)",
+              "cache_l3": "8 MB (shared)",
+              "process_nm": 4,
+              "base_clock_ghz": 3.4,
+              "boost_clock_ghz": 4.9,
+              "tdp_w": 65,
+              "memory_speed_mts": 5200,
+              "cores": 4,
+              "threads": 8,
+              "ecc_memory": true
+            },
+            "score": 8.087134189499679,
+            "strategy": "bm25"
+          }
+        ],
+        "context": "[amd-ryzen-3-8300g-p1-paragraph-3 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 3 8300G.html | page 1]\nThe AMD Ryzen 3 8300G is a desktop processor with 4 cores, launched in January 2024, at an MSRP of $176. It is part of the Ryzen 3 lineup, using the Zen 4 (Phoenix) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 8 threads. Ryzen 3 8300G has 8 MB of L3 cache and operates at 3.4 GHz by default, but can boost up to 4.9 GHz, depending on the workload. AMD is building the Ryzen 3 8300G on a 4 nm production process using 20.9 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. The multiplier is locked on Ryzen 3 8300G, which limits its overclocking capabilities.\nWith a TDP of 65 W, the Ryzen 3 8300G consumes typical power levels for a modern PC. AMD's processor supports DDR5 memory with a dual-channel interface. The highest officially supported memory speed is 5200 MT/s, but with overclocking\n\n[amd-ryzen-3-pro-8300g-p1-paragraph-3 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 3 PRO 8300G.html | page 1]\nThe AMD Ryzen 3 PRO 8300G is a desktop processor with 4 cores, launched in April 2024. It is part of the Ryzen 3 lineup, using the Zen 4 (Phoenix) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 8 threads. Ryzen 3 PRO 8300G has 8 MB of L3 cache and operates at 3.4 GHz by default, but can boost up to 4.9 GHz, depending on the workload. AMD is building the Ryzen 3 PRO 8300G on a 4 nm production process using 20.9 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. The multiplier is locked on Ryzen 3 PRO 8300G, which limits its overclocking capabilities.\nWith a TDP of 65 W, the Ryzen 3 PRO 8300G consumes typical power levels for a modern PC. AMD's processor supports DDR5 memory with a dual-channel interface. The highest officially supported memory speed is 5200 MT/s, but with overclocking (\n\n[amd-ryzen-3-8300g-p1-paragraph-2 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 3 8300G.html | page 1]\nModder Fits RTX 5090 With Four 8-Pin Connectors, Halving Current per Wire\n(80)\n\nCPU Database\n\nAMD Ryzen 3\n\nAMD Ryzen 3 8300G Specs\n\nReport an Error\n\nAMD Ryzen 3 8300G\n\n4\n\nCores\n\n8\n\nThreads\n\n65 W\n\nTDP\n\n3.4 GHz\n\nFrequency\n\n4.9 GHz\n\nBoost\n\nPhoenix2\n\nCodename\n\nSocket AM5\n\nSocket\n\nFront\n\nConnectivity\n\nAMD Socket AM5",
+        "context_ids": [
+          "amd-ryzen-3-8300g-p1-paragraph-3",
+          "amd-ryzen-3-pro-8300g-p1-paragraph-3",
+          "amd-ryzen-3-8300g-p1-paragraph-2"
+        ],
+        "context_chars": 2888
+      },
+      {
+        "event": "answer_decision",
+        "model_abstain": true,
+        "model_answer": "AMD Ryzen 3 8300G là bộ xử lý máy tính để bàn với 4 nhân [amd-ryzen-3-8300g-p1-paragraph-3].",
+        "model_citations": []
+      }
+    ],
+    "final_context": "[amd-ryzen-3-8300g-p1-paragraph-3 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 3 8300G.html | page 1]\nThe AMD Ryzen 3 8300G is a desktop processor with 4 cores, launched in January 2024, at an MSRP of $176. It is part of the Ryzen 3 lineup, using the Zen 4 (Phoenix) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 8 threads. Ryzen 3 8300G has 8 MB of L3 cache and operates at 3.4 GHz by default, but can boost up to 4.9 GHz, depending on the workload. AMD is building the Ryzen 3 8300G on a 4 nm production process using 20.9 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. The multiplier is locked on Ryzen 3 8300G, which limits its overclocking capabilities.\nWith a TDP of 65 W, the Ryzen 3 8300G consumes typical power levels for a modern PC. AMD's processor supports DDR5 memory with a dual-channel interface. The highest officially supported memory speed is 5200 MT/s, but with overclocking\n\n[amd-ryzen-3-pro-8300g-p1-paragraph-3 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 3 PRO 8300G.html | page 1]\nThe AMD Ryzen 3 PRO 8300G is a desktop processor with 4 cores, launched in April 2024. It is part of the Ryzen 3 lineup, using the Zen 4 (Phoenix) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 8 threads. Ryzen 3 PRO 8300G has 8 MB of L3 cache and operates at 3.4 GHz by default, but can boost up to 4.9 GHz, depending on the workload. AMD is building the Ryzen 3 PRO 8300G on a 4 nm production process using 20.9 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. The multiplier is locked on Ryzen 3 PRO 8300G, which limits its overclocking capabilities.\nWith a TDP of 65 W, the Ryzen 3 PRO 8300G consumes typical power levels for a modern PC. AMD's processor supports DDR5 memory with a dual-channel interface. The highest officially supported memory speed is 5200 MT/s, but with overclocking (\n\n[amd-ryzen-3-8300g-p1-paragraph-2 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 3 8300G.html | page 1]\nModder Fits RTX 5090 With Four 8-Pin Connectors, Halving Current per Wire\n(80)\n\nCPU Database\n\nAMD Ryzen 3\n\nAMD Ryzen 3 8300G Specs\n\nReport an Error\n\nAMD Ryzen 3 8300G\n\n4\n\nCores\n\n8\n\nThreads\n\n65 W\n\nTDP\n\n3.4 GHz\n\nFrequency\n\n4.9 GHz\n\nBoost\n\nPhoenix2\n\nCodename\n\nSocket AM5\n\nSocket\n\nFront\n\nConnectivity\n\nAMD Socket AM5",
+    "final_context_ids": [
+      "amd-ryzen-3-8300g-p1-paragraph-3",
+      "amd-ryzen-3-pro-8300g-p1-paragraph-3",
+      "amd-ryzen-3-8300g-p1-paragraph-2"
+    ],
+    "model_calls": 2,
+    "token_usage": {
+      "prompt": 1655,
+      "completion": 451
+    },
+    "elapsed_ms": 76862.20129999856
+  }
+]

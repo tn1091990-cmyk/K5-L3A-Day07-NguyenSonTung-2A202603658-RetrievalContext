@@ -1,0 +1,334 @@
+[
+  {
+    "id": "D01",
+    "split": "dev",
+    "answerable": true,
+    "question": "AMD Ryzen 3 8300G có bao nhiêu nhân?",
+    "expected_answer": "4 nhân.",
+    "gold": [
+      {
+        "chunk_id": "amd-ryzen-3-8300g-p1-paragraph-3",
+        "source_id": "amd-ryzen-3-8300g",
+        "page": 1,
+        "evidence": "The AMD Ryzen 3 8300G is a desktop processor with 4 cores, launched in January 2024, at an MSRP of $176."
+      }
+    ]
+  },
+  {
+    "id": "D02",
+    "split": "dev",
+    "answerable": true,
+    "question": "Xung cơ bản của Ryzen 5 7600X là bao nhiêu?",
+    "expected_answer": "4.7 GHz.",
+    "gold": [
+      {
+        "chunk_id": "amd-ryzen-5-7600x-p1-paragraph-3",
+        "source_id": "amd-ryzen-5-7600x",
+        "page": 1,
+        "evidence": "Ryzen 5 7600X has 32 MB of L3 cache and operates at 4.7 GHz by default, but can boost up to 5.3 GHz, depending on the workload."
+      }
+    ]
+  },
+  {
+    "id": "D03",
+    "split": "dev",
+    "answerable": true,
+    "question": "Ryzen 5 7500X3D có bao nhiêu cache L3?",
+    "expected_answer": "96 MB.",
+    "gold": [
+      {
+        "chunk_id": "amd-ryzen-5-7500x3d-p1-paragraph-3",
+        "source_id": "amd-ryzen-5-7500x3d",
+        "page": 1,
+        "evidence": "Ryzen 5 7500X3D has 96 MB of L3 cache and operates at 4 GHz by default, but can boost up to 4.5 GHz, depending on the workload."
+      }
+    ]
+  },
+  {
+    "id": "D04",
+    "split": "dev",
+    "answerable": true,
+    "question": "Ryzen 5 8600G dùng GPU tích hợp Radeon dòng nào?",
+    "expected_answer": "Radeon 760M.",
+    "gold": [
+      {
+        "chunk_id": "amd-ryzen-5-8600g-p1-paragraph-4",
+        "source_id": "amd-ryzen-5-8600g",
+        "page": 1,
+        "evidence": "This processor features the Radeon 760M integrated graphics solution."
+      }
+    ]
+  },
+  {
+    "id": "D05",
+    "split": "dev",
+    "answerable": true,
+    "question": "TDP của Ryzen 7 8700GE là bao nhiêu?",
+    "expected_answer": "35 W.",
+    "gold": [
+      {
+        "chunk_id": "amd-ryzen-7-8700ge-p1-paragraph-3",
+        "source_id": "amd-ryzen-7-8700ge",
+        "page": 1,
+        "evidence": "You may freely adjust the unlocked multiplier on Ryzen 7 8700GE, which simplifies overclocking greatly, as you can easily dial in any overclocking frequency.\nWith a TDP of 35 W, the Ryzen 7 8700GE consumes only little energy."
+      }
+    ]
+  },
+  {
+    "id": "D06",
+    "split": "dev",
+    "answerable": true,
+    "question": "Codename của Ryzen 7 9700X là gì?",
+    "expected_answer": "Granite Ridge.",
+    "gold": [
+      {
+        "chunk_id": "amd-ryzen-7-9700x-p1-paragraph-2",
+        "source_id": "amd-ryzen-7-9700x",
+        "page": 1,
+        "evidence": "Modder Fits RTX 5090 With Four 8-Pin Connectors, Halving Current per Wire\n(80)\n\nCPU Database\n\nAMD Ryzen 7\n\nAMD Ryzen 7 9700X Specs\n\nReport an Error\n\nAMD Ryzen 7 9700X\n\n8\n\nCores\n\n16\n\nThreads\n\n65 W\n\nTDP\n\n3.8 GHz\n\nFrequency\n\n5.5 GHz\n\nBoost\n\nGranite Ridge\n\nCodename\n\nSocket AM5\n\nSocket\n\nFront\n\nBack\n\nInstalled\n\nPackage\n\nConnectivity\n\nAMD Socket AM5"
+      }
+    ]
+  },
+  {
+    "id": "D07",
+    "split": "dev",
+    "answerable": true,
+    "question": "Ryzen 9 7900X có bao nhiêu nhân?",
+    "expected_answer": "12 nhân.",
+    "gold": [
+      {
+        "chunk_id": "amd-ryzen-9-7900x-p1-paragraph-3",
+        "source_id": "amd-ryzen-9-7900x",
+        "page": 1,
+        "evidence": "The AMD Ryzen 9 7900X is a desktop processor with 12 cores, launched in September 2022, at an MSRP of $549."
+      }
+    ]
+  },
+  {
+    "id": "D08",
+    "split": "dev",
+    "answerable": true,
+    "question": "Cache L3 của Ryzen 9 7950X3D là bao nhiêu?",
+    "expected_answer": "128 MB.",
+    "gold": [
+      {
+        "chunk_id": "amd-ryzen-9-7950x3d-p1-paragraph-3",
+        "source_id": "amd-ryzen-9-7950x3d",
+        "page": 1,
+        "evidence": "Ryzen 9 7950X3D has 128 MB of L3 cache and operates at 4.2 GHz by default, but can boost up to 5.7 GHz, depending on the workload."
+      }
+    ]
+  },
+  {
+    "id": "D09",
+    "split": "dev",
+    "answerable": true,
+    "question": "Turbo tối đa của Ryzen 7 9800X3D là bao nhiêu?",
+    "expected_answer": "5.2 GHz.",
+    "gold": [
+      {
+        "chunk_id": "amd-ryzen-7-9800x3d-p1-paragraph-3",
+        "source_id": "amd-ryzen-7-9800x3d",
+        "page": 1,
+        "evidence": "Ryzen 7 9800X3D has 96 MB of L3 cache and operates at 4.7 GHz by default, but can boost up to 5.2 GHz, depending on the workload."
+      }
+    ]
+  },
+  {
+    "id": "D10",
+    "split": "dev",
+    "answerable": true,
+    "question": "Ryzen 9 9950X có bao nhiêu nhân?",
+    "expected_answer": "16 nhân.",
+    "gold": [
+      {
+        "chunk_id": "amd-ryzen-9-9950x-p1-paragraph-3",
+        "source_id": "amd-ryzen-9-9950x",
+        "page": 1,
+        "evidence": "The AMD Ryzen 9 9950X is a desktop processor with 16 cores, launched in August 2024, at an MSRP of $649."
+      }
+    ]
+  },
+  {
+    "id": "D11",
+    "split": "dev",
+    "answerable": true,
+    "question": "Ryzen 5 7400 có multiplier mở khóa không?",
+    "expected_answer": "Có.",
+    "gold": [
+      {
+        "chunk_id": "amd-ryzen-5-7400-p1-paragraph-3",
+        "source_id": "amd-ryzen-5-7400",
+        "page": 1,
+        "evidence": "You may freely adjust the unlocked multiplier on Ryzen 5 7400, which simplifies overclocking greatly, as you can easily dial in any overclocking frequency.\nWith a TDP of 65 W, the Ryzen 5 7400 consumes typical power levels for a modern PC."
+      }
+    ]
+  },
+  {
+    "id": "D12",
+    "split": "dev",
+    "answerable": true,
+    "question": "Ryzen 5 8500G hỗ trợ PCI Express thế hệ nào?",
+    "expected_answer": "PCI Express Gen 4.",
+    "gold": [
+      {
+        "chunk_id": "amd-ryzen-5-8500g-p1-paragraph-4",
+        "source_id": "amd-ryzen-5-8500g",
+        "page": 1,
+        "evidence": "For communication with other components in the system, Ryzen 5 8500G uses a PCI-Express Gen 4 connection."
+      }
+    ]
+  },
+  {
+    "id": "D13",
+    "split": "dev",
+    "answerable": true,
+    "question": "TDP của Ryzen 7 7700 là bao nhiêu?",
+    "expected_answer": "65 W.",
+    "gold": [
+      {
+        "chunk_id": "amd-ryzen-7-7700-p1-paragraph-3",
+        "source_id": "amd-ryzen-7-7700",
+        "page": 1,
+        "evidence": "You may freely adjust the unlocked multiplier on Ryzen 7 7700, which simplifies overclocking greatly, as you can easily dial in any overclocking frequency.\nWith a TDP of 65 W, the Ryzen 7 7700 consumes typical power levels for a modern PC."
+      }
+    ]
+  },
+  {
+    "id": "D14",
+    "split": "dev",
+    "answerable": true,
+    "question": "Ryzen 9 9900X có Turbo tối đa bao nhiêu?",
+    "expected_answer": "5.6 GHz.",
+    "gold": [
+      {
+        "chunk_id": "amd-ryzen-9-9900x-p1-paragraph-3",
+        "source_id": "amd-ryzen-9-9900x",
+        "page": 1,
+        "evidence": "Ryzen 9 9900X has 64 MB of L3 cache and operates at 4.4 GHz by default, but can boost up to 5.6 GHz, depending on the workload."
+      }
+    ]
+  },
+  {
+    "id": "D15",
+    "split": "dev",
+    "answerable": true,
+    "question": "Xung cơ bản của Ryzen 5 7500 là bao nhiêu?",
+    "expected_answer": "3.7 GHz.",
+    "gold": [
+      {
+        "chunk_id": "amd-ryzen-5-7500-p1-paragraph-3",
+        "source_id": "amd-ryzen-5-7500",
+        "page": 1,
+        "evidence": "Ryzen 5 7500 has 32 MB of L3 cache and operates at 3.7 GHz by default, but can boost up to 5 GHz, depending on the workload."
+      }
+    ]
+  },
+  {
+    "id": "T01",
+    "split": "test",
+    "answerable": true,
+    "question": "Ryzen 5 7600X3D đạt Turbo tối đa bao nhiêu?",
+    "expected_answer": "4.7 GHz.",
+    "gold": [
+      {
+        "chunk_id": "amd-ryzen-5-7600x3d-p1-paragraph-3",
+        "source_id": "amd-ryzen-5-7600x3d",
+        "page": 1,
+        "evidence": "Ryzen 5 7600X3D has 96 MB of L3 cache and operates at 4.1 GHz by default, but can boost up to 4.7 GHz, depending on the workload."
+      }
+    ]
+  },
+  {
+    "id": "T02",
+    "split": "test",
+    "answerable": true,
+    "question": "TDP của Ryzen 7 7700X được ghi là bao nhiêu?",
+    "expected_answer": "105 W.",
+    "gold": [
+      {
+        "chunk_id": "amd-ryzen-7-7700x-p1-paragraph-3",
+        "source_id": "amd-ryzen-7-7700x",
+        "page": 1,
+        "evidence": "You may freely adjust the unlocked multiplier on Ryzen 7 7700X, which simplifies overclocking greatly, as you can easily dial in any overclocking frequency.\nWith a TDP of 105 W, the Ryzen 7 7700X consumes a good deal of power, so decent cooling is needed."
+      }
+    ]
+  },
+  {
+    "id": "T03",
+    "split": "test",
+    "answerable": true,
+    "question": "Ryzen 7 7700X3D có cache L3 bao nhiêu?",
+    "expected_answer": "96 MB.",
+    "gold": [
+      {
+        "chunk_id": "amd-ryzen-7-7700x3d-p1-paragraph-3",
+        "source_id": "amd-ryzen-7-7700x3d",
+        "page": 1,
+        "evidence": "Ryzen 7 7700X3D has 96 MB of L3 cache and operates at 4 GHz by default, but can boost up to 4.5 GHz, depending on the workload."
+      }
+    ]
+  },
+  {
+    "id": "T04",
+    "split": "test",
+    "answerable": true,
+    "question": "Ryzen 9 7900X3D có bao nhiêu nhân?",
+    "expected_answer": "12 nhân.",
+    "gold": [
+      {
+        "chunk_id": "amd-ryzen-9-7900x3d-p1-paragraph-3",
+        "source_id": "amd-ryzen-9-7900x3d",
+        "page": 1,
+        "evidence": "The AMD Ryzen 9 7900X3D is a desktop processor with 12 cores, launched in January 2023, at an MSRP of $599."
+      }
+    ]
+  },
+  {
+    "id": "T05",
+    "split": "test",
+    "answerable": true,
+    "question": "Xung cơ bản của Ryzen 9 7950X là bao nhiêu?",
+    "expected_answer": "4.5 GHz.",
+    "gold": [
+      {
+        "chunk_id": "amd-ryzen-9-7950x-p1-paragraph-3",
+        "source_id": "amd-ryzen-9-7950x",
+        "page": 1,
+        "evidence": "Ryzen 9 7950X has 64 MB of L3 cache and operates at 4.5 GHz by default, but can boost up to 5.7 GHz, depending on the workload."
+      }
+    ]
+  },
+  {
+    "id": "D16",
+    "split": "dev",
+    "answerable": false,
+    "question": "Thời hạn bảo hành chính thức của Ryzen 7 7700X tại Việt Nam là bao lâu?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "CPU specifications corpus contains no warranty terms or Vietnam warranty policy."
+  },
+  {
+    "id": "D17",
+    "split": "dev",
+    "answerable": false,
+    "question": "Ryzen 9 7900X3D cần bao nhiêu cổng USB trên bo mạch chủ?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "The CPU corpus does not specify motherboard USB port counts."
+  },
+  {
+    "id": "T06",
+    "split": "test",
+    "answerable": false,
+    "question": "Ryzen 5 7600X3D bán lẻ hôm nay có giá bao nhiêu tại Việt Nam?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "The corpus has no current Vietnam retail pricing."
+  },
+  {
+    "id": "T07",
+    "split": "test",
+    "answerable": false,
+    "question": "Ryzen 9 7950X hỗ trợ tối đa bao nhiêu màn hình 8K?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "The indexed CPU specification pages do not state supported 8K display counts."
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "documents": 30,
+  "chunks_indexed": 270,
+  "strategy": "B",
+  "embedding_model": "embeddinggemma-2",
+  "dimensions": 768,
+  "elapsed_seconds": 180.47376510000322,
+  "index_rebuilt": true
+}

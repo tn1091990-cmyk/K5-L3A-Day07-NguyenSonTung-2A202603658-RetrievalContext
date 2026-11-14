@@ -1,0 +1,57 @@
+[
+  {
+    "query_id": "T01",
+    "citation_support": [
+      null,
+      null
+    ],
+    "review_status": "pending",
+    "answer_grade": null
+  },
+  {
+    "query_id": "T02",
+    "citation_support": [
+      null,
+      null
+    ],
+    "review_status": "pending",
+    "answer_grade": null
+  },
+  {
+    "query_id": "T03",
+    "citation_support": [
+      null
+    ],
+    "review_status": "pending",
+    "answer_grade": null
+  },
+  {
+    "query_id": "T04",
+    "citation_support": [
+      null,
+      null
+    ],
+    "review_status": "pending",
+    "answer_grade": null
+  },
+  {
+    "query_id": "T05",
+    "citation_support": [
+      null
+    ],
+    "review_status": "pending",
+    "answer_grade": null
+  },
+  {
+    "query_id": "T06",
+    "citation_support": [],
+    "review_status": "pending",
+    "abstention_correct": null
+  },
+  {
+    "query_id": "T07",
+    "citation_support": [],
+    "review_status": "pending",
+    "abstention_correct": null
+  }
+]

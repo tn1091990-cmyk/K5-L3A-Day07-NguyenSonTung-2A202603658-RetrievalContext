@@ -1,0 +1,189 @@
+[
+  {
+    "query_id": "D01",
+    "split": "dev",
+    "answerable": true,
+    "method": "hybrid",
+    "status": "error",
+    "error": "InternalServerError: Error code: 500 - the current context does not support logits computation. skipping",
+    "events": [],
+    "citations": [],
+    "elapsed_ms": 1462.82900001097
+  },
+  {
+    "query_id": "D02",
+    "split": "dev",
+    "answerable": true,
+    "method": "hybrid",
+    "status": "error",
+    "error": "InternalServerError: Error code: 500 - the current context does not support logits computation. skipping",
+    "events": [],
+    "citations": [],
+    "elapsed_ms": 1460.701699994388
+  },
+  {
+    "query_id": "D03",
+    "split": "dev",
+    "answerable": true,
+    "method": "hybrid",
+    "status": "error",
+    "error": "InternalServerError: Error code: 500 - the current context does not support logits computation. skipping",
+    "events": [],
+    "citations": [],
+    "elapsed_ms": 1380.7293999998365
+  },
+  {
+    "query_id": "D04",
+    "split": "dev",
+    "answerable": true,
+    "method": "hybrid",
+    "status": "error",
+    "error": "InternalServerError: Error code: 500 - the current context does not support logits computation. skipping",
+    "events": [],
+    "citations": [],
+    "elapsed_ms": 1559.5689000037964
+  },
+  {
+    "query_id": "D05",
+    "split": "dev",
+    "answerable": true,
+    "method": "hybrid",
+    "status": "error",
+    "error": "InternalServerError: Error code: 500 - the current context does not support logits computation. skipping",
+    "events": [],
+    "citations": [],
+    "elapsed_ms": 1340.0319999927888
+  },
+  {
+    "query_id": "D06",
+    "split": "dev",
+    "answerable": true,
+    "method": "hybrid",
+    "status": "error",
+    "error": "InternalServerError: Error code: 500 - the current context does not support logits computation. skipping",
+    "events": [],
+    "citations": [],
+    "elapsed_ms": 1333.1542999949306
+  },
+  {
+    "query_id": "D07",
+    "split": "dev",
+    "answerable": true,
+    "method": "hybrid",
+    "status": "error",
+    "error": "InternalServerError: Error code: 500 - the current context does not support logits computation. skipping",
+    "events": [],
+    "citations": [],
+    "elapsed_ms": 1358.3867999986978
+  },
+  {
+    "query_id": "D08",
+    "split": "dev",
+    "answerable": true,
+    "method": "hybrid",
+    "status": "error",
+    "error": "InternalServerError: Error code: 500 - the current context does not support logits computation. skipping",
+    "events": [],
+    "citations": [],
+    "elapsed_ms": 1311.5634999994654
+  },
+  {
+    "query_id": "D09",
+    "split": "dev",
+    "answerable": true,
+    "method": "hybrid",
+    "status": "error",
+    "error": "InternalServerError: Error code: 500 - the current context does not support logits computation. skipping",
+    "events": [],
+    "citations": [],
+    "elapsed_ms": 1418.0955000047106
+  },
+  {
+    "query_id": "D10",
+    "split": "dev",
+    "answerable": true,
+    "method": "hybrid",
+    "status": "error",
+    "error": "InternalServerError: Error code: 500 - the current context does not support logits computation. skipping",
+    "events": [],
+    "citations": [],
+    "elapsed_ms": 1220.1335999998264
+  },
+  {
+    "query_id": "D11",
+    "split": "dev",
+    "answerable": true,
+    "method": "hybrid",
+    "status": "error",
+    "error": "InternalServerError: Error code: 500 - the current context does not support logits computation. skipping",
+    "events": [],
+    "citations": [],
+    "elapsed_ms": 1371.1317999986932
+  },
+  {
+    "query_id": "D12",
+    "split": "dev",
+    "answerable": true,
+    "method": "hybrid",
+    "status": "error",
+    "error": "InternalServerError: Error code: 500 - the current context does not support logits computation. skipping",
+    "events": [],
+    "citations": [],
+    "elapsed_ms": 1300.2561000030255
+  },
+  {
+    "query_id": "D13",
+    "split": "dev",
+    "answerable": true,
+    "method": "hybrid",
+    "status": "error",
+    "error": "InternalServerError: Error code: 500 - the current context does not support logits computation. skipping",
+    "events": [],
+    "citations": [],
+    "elapsed_ms": 1307.609199997387
+  },
+  {
+    "query_id": "D14",
+    "split": "dev",
+    "answerable": true,
+    "method": "hybrid",
+    "status": "error",
+    "error": "InternalServerError: Error code: 500 - the current context does not support logits computation. skipping",
+    "events": [],
+    "citations": [],
+    "elapsed_ms": 1418.5625999962213
+  },
+  {
+    "query_id": "D15",
+    "split": "dev",
+    "answerable": true,
+    "method": "hybrid",
+    "status": "error",
+    "error": "InternalServerError: Error code: 500 - the current context does not support logits computation. skipping",
+    "events": [],
+    "citations": [],
+    "elapsed_ms": 1359.2599000112386
+  },
+  {
+    "query_id": "D16",
+    "split": "dev",
+    "answerable": false,
+    "method": "hybrid",
+    "status": "error",
+    "error": "InternalServerError: Error code: 500 - the current context does not support logits computation. skipping",
+    "events": [],
+    "citations": [],
+    "elapsed_ms": 1288.3880999870598
+  },
+  {
+    "query_id": "D17",
+    "split": "dev",
+    "answerable": false,
+    "method": "hybrid",
+    "status": "error",
+    "error": "InternalServerError: Error code: 500 - the current context does not support logits computation. skipping",
+    "events": [],
+    "citations": [],
+    "elapsed_ms": 1386.1843000049703
+  }
+]

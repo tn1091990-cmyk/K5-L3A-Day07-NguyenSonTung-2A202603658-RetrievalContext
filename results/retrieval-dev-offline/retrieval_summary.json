@@ -1,0 +1,81 @@
+{
+  "split": "dev",
+  "offline_lexical_only": true,
+  "corpus_documents": 30,
+  "chunks": 270,
+  "methods": {
+    "dev/bm25_k1_1.5_b_0.75_top3": {
+      "answerable_n": 15,
+      "Hit@1": {
+        "n": 11,
+        "N": 15
+      },
+      "Evidence_Hit@3": {
+        "n": 15,
+        "N": 15
+      },
+      "Context_Evidence_Rate": {
+        "n": 15,
+        "N": 15
+      },
+      "median_ms": 0.4022000066470355,
+      "unanswerable_queries": 2,
+      "service_cost_usd": 0
+    },
+    "dev/experiment_bm25_context1200": {
+      "answerable_n": 15,
+      "Hit@1": {
+        "n": 11,
+        "N": 15
+      },
+      "Evidence_Hit@3": {
+        "n": 15,
+        "N": 15
+      },
+      "Context_Evidence_Rate": {
+        "n": 11,
+        "N": 15
+      },
+      "median_ms": 0.384899991331622,
+      "unanswerable_queries": 2,
+      "service_cost_usd": 0
+    },
+    "dev/experiment_bm25_k1_0.8_b_0.25": {
+      "answerable_n": 15,
+      "Hit@1": {
+        "n": 14,
+        "N": 15
+      },
+      "Evidence_Hit@3": {
+        "n": 15,
+        "N": 15
+      },
+      "Context_Evidence_Rate": {
+        "n": 14,
+        "N": 15
+      },
+      "median_ms": 0.47420000191777945,
+      "unanswerable_queries": 2,
+      "service_cost_usd": 0
+    },
+    "dev/experiment_bm25_tuned_budget3600": {
+      "answerable_n": 15,
+      "Hit@1": {
+        "n": 14,
+        "N": 15
+      },
+      "Evidence_Hit@3": {
+        "n": 15,
+        "N": 15
+      },
+      "Context_Evidence_Rate": {
+        "n": 15,
+        "N": 15
+      },
+      "median_ms": 0.3836000105366111,
+      "unanswerable_queries": 2,
+      "service_cost_usd": 0
+    }
+  },
+  "note": "Dense and hybrid methods require the real local embedding server and PostgreSQL; they were not replaced by offline estimates."
+}

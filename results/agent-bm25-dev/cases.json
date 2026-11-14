@@ -1,0 +1,87 @@
+[
+  {
+    "id": "D01",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "D02",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "D03",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "D04",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "D05",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "D06",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "D07",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "D08",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "D09",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "D10",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "D11",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "D12",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "D13",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "D14",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "D15",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "D16",
+    "split": "dev",
+    "answerable": false
+  },
+  {
+    "id": "D17",
+    "split": "dev",
+    "answerable": false
+  }
+]

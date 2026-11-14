@@ -1,0 +1,1071 @@
+[
+  {
+    "query_id": "T01",
+    "split": "test",
+    "answerable": true,
+    "method": "bm25",
+    "status": "answered",
+    "answer": "Ryzen 5 7600X3D có thể tăng tốc (boost) lên đến 4.7 GHz, tùy thuộc vào khối lượng công việc [amd-ryzen-5-7600x3d-p1-paragraph-3] [amd-ryzen-5-7600x3d-p1-paragraph-2].",
+    "citations": [
+      "amd-ryzen-5-7600x3d-p1-paragraph-3",
+      "amd-ryzen-5-7600x3d-p1-paragraph-2"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Ryzen 5 7600X3D Turbo tối đa",
+        "filters": null,
+        "results": [
+          {
+            "id": "amd-ryzen-5-7600x3d-p1-paragraph-3",
+            "source_id": "amd-ryzen-5-7600x3d",
+            "source": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 5 7600X3D.html",
+            "page": 1,
+            "text": "The AMD Ryzen 5 7600X3D is a desktop processor with 6 cores, launched in August 2024, at an MSRP of $299. It is part of the Ryzen 5 lineup, using the Zen 4 (Raphael) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 12 threads. Ryzen 5 7600X3D has 96 MB of L3 cache and operates at 4.1 GHz by default, but can boost up to 4.7 GHz, depending on the workload. AMD is making the Ryzen 5 7600X3D on a 5 nm production node using 11.3 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. The multiplier is locked on Ryzen 5 7600X3D, which limits its overclocking potential.\nWith a TDP of 65 W, the Ryzen 5 7600X3D consumes typical power levels for a modern PC. AMD's processor supports DDR5 memory with a dual-channel interface. The highest officially supported memory speed is 5200 MT/s, but with overclock",
+            "metadata": {
+              "title": "AMD Ryzen 5 7600X3D Specs | TechPowerUp CPU Database",
+              "source_path": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 5 7600X3D.html",
+              "source_unit_type": "html_document",
+              "character_count": 7361,
+              "extraction_status": "success",
+              "series": "Ryzen 5",
+              "architecture": "Zen 4",
+              "socket": "AMD Socket AM5",
+              "codename": "Raphael",
+              "released": "Aug 30th, 2024",
+              "memory_type": "DDR5",
+              "memory_channels": "Dual-channel",
+              "memory_bandwidth": "83.2 GB/s",
+              "cache_l1": "64 KB (per core)",
+              "cache_l2": "1 MB (per core)",
+              "cache_l3": "96 MB (shared)",
+              "process_nm": 5,
+              "base_clock_ghz": 4.1,
+              "boost_clock_ghz": 4.7,
+              "tdp_w": 65,
+              "memory_speed_mts": 5200,
+              "cores": 6,
+              "threads": 12,
+              "ecc_memory": true
+            },
+            "score": 8.127847899136494,
+            "strategy": "bm25"
+          },
+          {
+            "id": "amd-ryzen-5-7600x3d-p1-paragraph-2",
+            "source_id": "amd-ryzen-5-7600x3d",
+            "source": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 5 7600X3D.html",
+            "page": 1,
+            "text": "Modder Fits RTX 5090 With Four 8-Pin Connectors, Halving Current per Wire\n(80)\n\nCPU Database\n\nAMD Ryzen 5\n\nAMD Ryzen 5 7600X3D Specs\n\nReport an Error\n\nAMD Ryzen 5 7600X3D\n\n6\n\nCores\n\n12\n\nThreads\n\n65 W\n\nTDP\n\n4.1 GHz\n\nFrequency\n\n4.7 GHz\n\nBoost\n\nRaphael\n\nCodename\n\nSocket AM5\n\nSocket\n\nFront\n\nConnectivity\n\nAMD Socket AM5",
+            "metadata": {
+              "title": "AMD Ryzen 5 7600X3D Specs | TechPowerUp CPU Database",
+              "source_path": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 5 7600X3D.html",
+              "source_unit_type": "html_document",
+              "character_count": 7361,
+              "extraction_status": "success",
+              "series": "Ryzen 5",
+              "architecture": "Zen 4",
+              "socket": "AMD Socket AM5",
+              "codename": "Raphael",
+              "released": "Aug 30th, 2024",
+              "memory_type": "DDR5",
+              "memory_channels": "Dual-channel",
+              "memory_bandwidth": "83.2 GB/s",
+              "cache_l1": "64 KB (per core)",
+              "cache_l2": "1 MB (per core)",
+              "cache_l3": "96 MB (shared)",
+              "process_nm": 5,
+              "base_clock_ghz": 4.1,
+              "boost_clock_ghz": 4.7,
+              "tdp_w": 65,
+              "memory_speed_mts": 5200,
+              "cores": 6,
+              "threads": 12,
+              "ecc_memory": true
+            },
+            "score": 7.1820811049039275,
+            "strategy": "bm25"
+          },
+          {
+            "id": "amd-ryzen-5-7600x3d-p1-paragraph-4",
+            "source_id": "amd-ryzen-5-7600x3d",
+            "source": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 5 7600X3D.html",
+            "page": 1,
+            "text": "ing (and the right memory modules) you can go even higher. ECC memory is supported, too, which is an important capability for mission-critical systems, to avoid data corruption. For communication with other components in the computer, Ryzen 5 7600X3D uses a PCI-Express Gen 5 connection. This processor features the Radeon Graphics integrated graphics solution.\nHardware virtualization is available on the Ryzen 5 7600X3D, which greatly improves virtual machine performance. Programs using Advanced Vector Extensions (AVX) can run on this processor, boosting performance for calculation-heavy applications. Besides AVX, AMD has added support for the newer AVX2 and AVX-512 instructions, too.",
+            "metadata": {
+              "title": "AMD Ryzen 5 7600X3D Specs | TechPowerUp CPU Database",
+              "source_path": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 5 7600X3D.html",
+              "source_unit_type": "html_document",
+              "character_count": 7361,
+              "extraction_status": "success",
+              "series": "Ryzen 5",
+              "architecture": "Zen 4",
+              "socket": "AMD Socket AM5",
+              "codename": "Raphael",
+              "released": "Aug 30th, 2024",
+              "memory_type": "DDR5",
+              "memory_channels": "Dual-channel",
+              "memory_bandwidth": "83.2 GB/s",
+              "cache_l1": "64 KB (per core)",
+              "cache_l2": "1 MB (per core)",
+              "cache_l3": "96 MB (shared)",
+              "process_nm": 5,
+              "base_clock_ghz": 4.1,
+              "boost_clock_ghz": 4.7,
+              "tdp_w": 65,
+              "memory_speed_mts": 5200,
+              "cores": 6,
+              "threads": 12,
+              "ecc_memory": true
+            },
+            "score": 6.963408418966395,
+            "strategy": "bm25"
+          }
+        ],
+        "context": "[amd-ryzen-5-7600x3d-p1-paragraph-3 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 5 7600X3D.html | page 1]\nThe AMD Ryzen 5 7600X3D is a desktop processor with 6 cores, launched in August 2024, at an MSRP of $299. It is part of the Ryzen 5 lineup, using the Zen 4 (Raphael) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 12 threads. Ryzen 5 7600X3D has 96 MB of L3 cache and operates at 4.1 GHz by default, but can boost up to 4.7 GHz, depending on the workload. AMD is making the Ryzen 5 7600X3D on a 5 nm production node using 11.3 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. The multiplier is locked on Ryzen 5 7600X3D, which limits its overclocking potential.\nWith a TDP of 65 W, the Ryzen 5 7600X3D consumes typical power levels for a modern PC. AMD's processor supports DDR5 memory with a dual-channel interface. The highest officially supported memory speed is 5200 MT/s, but with overclock\n\n[amd-ryzen-5-7600x3d-p1-paragraph-2 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 5 7600X3D.html | page 1]\nModder Fits RTX 5090 With Four 8-Pin Connectors, Halving Current per Wire\n(80)\n\nCPU Database\n\nAMD Ryzen 5\n\nAMD Ryzen 5 7600X3D Specs\n\nReport an Error\n\nAMD Ryzen 5 7600X3D\n\n6\n\nCores\n\n12\n\nThreads\n\n65 W\n\nTDP\n\n4.1 GHz\n\nFrequency\n\n4.7 GHz\n\nBoost\n\nRaphael\n\nCodename\n\nSocket AM5\n\nSocket\n\nFront\n\nConnectivity\n\nAMD Socket AM5\n\n[amd-ryzen-5-7600x3d-p1-paragraph-4 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 5 7600X3D.html | page 1]\ning (and the right memory modules) you can go even higher. ECC memory is supported, too, which is an important capability for mission-critical systems, to avoid data corruption. For communication with other components in the computer, Ryzen 5 7600X3D uses a PCI-Express Gen 5 connection. This processor features the Radeon Graphics integrated graphics solution.\nHardware virtualization is available on the Ryzen 5 7600X3D, which greatly improves virtual machine performance. Programs using Advanced Vector Extensions (AVX) can run on this processor, boosting performance for calculation-heavy applications. Besides AVX, AMD has added support for the newer AVX2 and AVX-512 instructions, too.",
+        "context_ids": [
+          "amd-ryzen-5-7600x3d-p1-paragraph-3",
+          "amd-ryzen-5-7600x3d-p1-paragraph-2",
+          "amd-ryzen-5-7600x3d-p1-paragraph-4"
+        ],
+        "context_chars": 2587
+      },
+      {
+        "event": "answer_decision",
+        "model_abstain": true,
+        "model_answer": "Ryzen 5 7600X3D có thể tăng tốc (boost) lên đến 4.7 GHz, tùy thuộc vào khối lượng công việc [amd-ryzen-5-7600x3d-p1-paragraph-3, amd-ryzen-5-7600x3d-p1-paragraph-2].",
+        "model_citations": []
+      },
+      {
+        "event": "answer_recovered",
+        "reason": "cited statement in final context without abstention language"
+      }
+    ],
+    "final_context": "[amd-ryzen-5-7600x3d-p1-paragraph-3 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 5 7600X3D.html | page 1]\nThe AMD Ryzen 5 7600X3D is a desktop processor with 6 cores, launched in August 2024, at an MSRP of $299. It is part of the Ryzen 5 lineup, using the Zen 4 (Raphael) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 12 threads. Ryzen 5 7600X3D has 96 MB of L3 cache and operates at 4.1 GHz by default, but can boost up to 4.7 GHz, depending on the workload. AMD is making the Ryzen 5 7600X3D on a 5 nm production node using 11.3 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. The multiplier is locked on Ryzen 5 7600X3D, which limits its overclocking potential.\nWith a TDP of 65 W, the Ryzen 5 7600X3D consumes typical power levels for a modern PC. AMD's processor supports DDR5 memory with a dual-channel interface. The highest officially supported memory speed is 5200 MT/s, but with overclock\n\n[amd-ryzen-5-7600x3d-p1-paragraph-2 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 5 7600X3D.html | page 1]\nModder Fits RTX 5090 With Four 8-Pin Connectors, Halving Current per Wire\n(80)\n\nCPU Database\n\nAMD Ryzen 5\n\nAMD Ryzen 5 7600X3D Specs\n\nReport an Error\n\nAMD Ryzen 5 7600X3D\n\n6\n\nCores\n\n12\n\nThreads\n\n65 W\n\nTDP\n\n4.1 GHz\n\nFrequency\n\n4.7 GHz\n\nBoost\n\nRaphael\n\nCodename\n\nSocket AM5\n\nSocket\n\nFront\n\nConnectivity\n\nAMD Socket AM5\n\n[amd-ryzen-5-7600x3d-p1-paragraph-4 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 5 7600X3D.html | page 1]\ning (and the right memory modules) you can go even higher. ECC memory is supported, too, which is an important capability for mission-critical systems, to avoid data corruption. For communication with other components in the computer, Ryzen 5 7600X3D uses a PCI-Express Gen 5 connection. This processor features the Radeon Graphics integrated graphics solution.\nHardware virtualization is available on the Ryzen 5 7600X3D, which greatly improves virtual machine performance. Programs using Advanced Vector Extensions (AVX) can run on this processor, boosting performance for calculation-heavy applications. Besides AVX, AMD has added support for the newer AVX2 and AVX-512 instructions, too.",
+    "final_context_ids": [
+      "amd-ryzen-5-7600x3d-p1-paragraph-3",
+      "amd-ryzen-5-7600x3d-p1-paragraph-2",
+      "amd-ryzen-5-7600x3d-p1-paragraph-4"
+    ],
+    "model_calls": 2,
+    "token_usage": {
+      "prompt": 1567,
+      "completion": 353
+    },
+    "elapsed_ms": 62415.55320000043
+  },
+  {
+    "query_id": "T02",
+    "split": "test",
+    "answerable": true,
+    "method": "bm25",
+    "status": "answered",
+    "answer": "TDP của Ryzen 7 7700X được ghi là 105 W [amd-ryzen-7-7700x-p1-paragraph-3] [amd-ryzen-7-7700x-p1-paragraph-2].",
+    "citations": [
+      "amd-ryzen-7-7700x-p1-paragraph-3",
+      "amd-ryzen-7-7700x-p1-paragraph-2"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "TDP của Ryzen 7 7700X",
+        "filters": null,
+        "results": [
+          {
+            "id": "amd-ryzen-7-7700x-p1-paragraph-3",
+            "source_id": "amd-ryzen-7-7700x",
+            "source": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 7 7700X.html",
+            "page": 1,
+            "text": "The AMD Ryzen 7 7700X is a desktop processor with 8 cores, launched in September 2022, at an MSRP of $399. It is part of the Ryzen 7 lineup, using the Zen 4 (Raphael) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 16 threads. Ryzen 7 7700X has 32 MB of L3 cache and operates at 4.5 GHz by default, but can boost up to 5.4 GHz, depending on the workload. AMD is making the Ryzen 7 7700X on a 5 nm production node using 6.57 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. You may freely adjust the unlocked multiplier on Ryzen 7 7700X, which simplifies overclocking greatly, as you can easily dial in any overclocking frequency.\nWith a TDP of 105 W, the Ryzen 7 7700X consumes a good deal of power, so decent cooling is needed. AMD's processor supports DDR5 memory with a dual-channel interface",
+            "metadata": {
+              "title": "AMD Ryzen 7 7700X Specs | TechPowerUp CPU Database",
+              "source_path": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 7 7700X.html",
+              "source_unit_type": "html_document",
+              "character_count": 7250,
+              "extraction_status": "success",
+              "series": "Ryzen 7",
+              "architecture": "Zen 4",
+              "socket": "AMD Socket AM5",
+              "codename": "Raphael",
+              "released": "Sep 27th, 2022",
+              "memory_type": "DDR5",
+              "memory_channels": "Dual-channel",
+              "memory_bandwidth": "83.2 GB/s",
+              "cache_l1": "64 KB (per core)",
+              "cache_l2": "1 MB (per core)",
+              "cache_l3": "32 MB (shared)",
+              "process_nm": 5,
+              "base_clock_ghz": 4.5,
+              "boost_clock_ghz": 5.4,
+              "tdp_w": 105,
+              "memory_speed_mts": 5200,
+              "cores": 8,
+              "threads": 16,
+              "ecc_memory": true
+            },
+            "score": 9.51062651136435,
+            "strategy": "bm25"
+          },
+          {
+            "id": "amd-ryzen-7-7700x-p1-paragraph-2",
+            "source_id": "amd-ryzen-7-7700x",
+            "source": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 7 7700X.html",
+            "page": 1,
+            "text": "Modder Fits RTX 5090 With Four 8-Pin Connectors, Halving Current per Wire\n(80)\n\nCPU Database\n\nAMD Ryzen 7\n\nAMD Ryzen 7 7700X Specs\n\nReport an Error\n\nAMD Ryzen 7 7700X\n\n8\n\nCores\n\n16\n\nThreads\n\n105 W\n\nTDP\n\n4.5 GHz\n\nFrequency\n\n5.4 GHz\n\nBoost\n\nRaphael\n\nCodename\n\nSocket AM5\n\nSocket\n\nGamers Nexus\n\nFront\n\nPackage\n\nBack\n\nInstalled\n\nConnectivity\n\nAMD Socket AM5",
+            "metadata": {
+              "title": "AMD Ryzen 7 7700X Specs | TechPowerUp CPU Database",
+              "source_path": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 7 7700X.html",
+              "source_unit_type": "html_document",
+              "character_count": 7250,
+              "extraction_status": "success",
+              "series": "Ryzen 7",
+              "architecture": "Zen 4",
+              "socket": "AMD Socket AM5",
+              "codename": "Raphael",
+              "released": "Sep 27th, 2022",
+              "memory_type": "DDR5",
+              "memory_channels": "Dual-channel",
+              "memory_bandwidth": "83.2 GB/s",
+              "cache_l1": "64 KB (per core)",
+              "cache_l2": "1 MB (per core)",
+              "cache_l3": "32 MB (shared)",
+              "process_nm": 5,
+              "base_clock_ghz": 4.5,
+              "boost_clock_ghz": 5.4,
+              "tdp_w": 105,
+              "memory_speed_mts": 5200,
+              "cores": 8,
+              "threads": 16,
+              "ecc_memory": true
+            },
+            "score": 8.650179266284468,
+            "strategy": "bm25"
+          },
+          {
+            "id": "amd-ryzen-7-7700x-p1-paragraph-4",
+            "source_id": "amd-ryzen-7-7700x",
+            "source": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 7 7700X.html",
+            "page": 1,
+            "text": ". The highest officially supported memory speed is 5200 MT/s, but with overclocking (and the right memory modules) you can go even higher. ECC memory is supported, too, which is an important capability for mission-critical systems, to avoid data corruption. For communication with other components in the system, Ryzen 7 7700X uses a PCI-Express Gen 5 connection. This processor features the Radeon Graphics integrated graphics solution.\nHardware virtualization is available on the Ryzen 7 7700X, which greatly improves virtual machine performance. Programs using Advanced Vector Extensions (AVX) can run on this processor, boosting performance for calculation-heavy applications. Besides AVX, AMD has added support for the newer AVX2 and AVX-512 instructions, too.",
+            "metadata": {
+              "title": "AMD Ryzen 7 7700X Specs | TechPowerUp CPU Database",
+              "source_path": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 7 7700X.html",
+              "source_unit_type": "html_document",
+              "character_count": 7250,
+              "extraction_status": "success",
+              "series": "Ryzen 7",
+              "architecture": "Zen 4",
+              "socket": "AMD Socket AM5",
+              "codename": "Raphael",
+              "released": "Sep 27th, 2022",
+              "memory_type": "DDR5",
+              "memory_channels": "Dual-channel",
+              "memory_bandwidth": "83.2 GB/s",
+              "cache_l1": "64 KB (per core)",
+              "cache_l2": "1 MB (per core)",
+              "cache_l3": "32 MB (shared)",
+              "process_nm": 5,
+              "base_clock_ghz": 4.5,
+              "boost_clock_ghz": 5.4,
+              "tdp_w": 105,
+              "memory_speed_mts": 5200,
+              "cores": 8,
+              "threads": 16,
+              "ecc_memory": true
+            },
+            "score": 7.137071187030876,
+            "strategy": "bm25"
+          }
+        ],
+        "context": "[amd-ryzen-7-7700x-p1-paragraph-3 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 7 7700X.html | page 1]\nThe AMD Ryzen 7 7700X is a desktop processor with 8 cores, launched in September 2022, at an MSRP of $399. It is part of the Ryzen 7 lineup, using the Zen 4 (Raphael) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 16 threads. Ryzen 7 7700X has 32 MB of L3 cache and operates at 4.5 GHz by default, but can boost up to 5.4 GHz, depending on the workload. AMD is making the Ryzen 7 7700X on a 5 nm production node using 6.57 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. You may freely adjust the unlocked multiplier on Ryzen 7 7700X, which simplifies overclocking greatly, as you can easily dial in any overclocking frequency.\nWith a TDP of 105 W, the Ryzen 7 7700X consumes a good deal of power, so decent cooling is needed. AMD's processor supports DDR5 memory with a dual-channel interface\n\n[amd-ryzen-7-7700x-p1-paragraph-2 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 7 7700X.html | page 1]\nModder Fits RTX 5090 With Four 8-Pin Connectors, Halving Current per Wire\n(80)\n\nCPU Database\n\nAMD Ryzen 7\n\nAMD Ryzen 7 7700X Specs\n\nReport an Error\n\nAMD Ryzen 7 7700X\n\n8\n\nCores\n\n16\n\nThreads\n\n105 W\n\nTDP\n\n4.5 GHz\n\nFrequency\n\n5.4 GHz\n\nBoost\n\nRaphael\n\nCodename\n\nSocket AM5\n\nSocket\n\nGamers Nexus\n\nFront\n\nPackage\n\nBack\n\nInstalled\n\nConnectivity\n\nAMD Socket AM5\n\n[amd-ryzen-7-7700x-p1-paragraph-4 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 7 7700X.html | page 1]\n. The highest officially supported memory speed is 5200 MT/s, but with overclocking (and the right memory modules) you can go even higher. ECC memory is supported, too, which is an important capability for mission-critical systems, to avoid data corruption. For communication with other components in the system, Ryzen 7 7700X uses a PCI-Express Gen 5 connection. This processor features the Radeon Graphics integrated graphics solution.\nHardware virtualization is available on the Ryzen 7 7700X, which greatly improves virtual machine performance. Programs using Advanced Vector Extensions (AVX) can run on this processor, boosting performance for calculation-heavy applications. Besides AVX, AMD has added support for the newer AVX2 and AVX-512 instructions, too.",
+        "context_ids": [
+          "amd-ryzen-7-7700x-p1-paragraph-3",
+          "amd-ryzen-7-7700x-p1-paragraph-2",
+          "amd-ryzen-7-7700x-p1-paragraph-4"
+        ],
+        "context_chars": 2686
+      },
+      {
+        "event": "answer_decision",
+        "model_abstain": true,
+        "model_answer": "TDP của Ryzen 7 7700X được ghi là 105 W [amd-ryzen-7-7700x-p1-paragraph-3, amd-ryzen-7-7700x-p1-paragraph-2].",
+        "model_citations": []
+      },
+      {
+        "event": "answer_recovered",
+        "reason": "cited statement in final context without abstention language"
+      }
+    ],
+    "final_context": "[amd-ryzen-7-7700x-p1-paragraph-3 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 7 7700X.html | page 1]\nThe AMD Ryzen 7 7700X is a desktop processor with 8 cores, launched in September 2022, at an MSRP of $399. It is part of the Ryzen 7 lineup, using the Zen 4 (Raphael) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 16 threads. Ryzen 7 7700X has 32 MB of L3 cache and operates at 4.5 GHz by default, but can boost up to 5.4 GHz, depending on the workload. AMD is making the Ryzen 7 7700X on a 5 nm production node using 6.57 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. You may freely adjust the unlocked multiplier on Ryzen 7 7700X, which simplifies overclocking greatly, as you can easily dial in any overclocking frequency.\nWith a TDP of 105 W, the Ryzen 7 7700X consumes a good deal of power, so decent cooling is needed. AMD's processor supports DDR5 memory with a dual-channel interface\n\n[amd-ryzen-7-7700x-p1-paragraph-2 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 7 7700X.html | page 1]\nModder Fits RTX 5090 With Four 8-Pin Connectors, Halving Current per Wire\n(80)\n\nCPU Database\n\nAMD Ryzen 7\n\nAMD Ryzen 7 7700X Specs\n\nReport an Error\n\nAMD Ryzen 7 7700X\n\n8\n\nCores\n\n16\n\nThreads\n\n105 W\n\nTDP\n\n4.5 GHz\n\nFrequency\n\n5.4 GHz\n\nBoost\n\nRaphael\n\nCodename\n\nSocket AM5\n\nSocket\n\nGamers Nexus\n\nFront\n\nPackage\n\nBack\n\nInstalled\n\nConnectivity\n\nAMD Socket AM5\n\n[amd-ryzen-7-7700x-p1-paragraph-4 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 7 7700X.html | page 1]\n. The highest officially supported memory speed is 5200 MT/s, but with overclocking (and the right memory modules) you can go even higher. ECC memory is supported, too, which is an important capability for mission-critical systems, to avoid data corruption. For communication with other components in the system, Ryzen 7 7700X uses a PCI-Express Gen 5 connection. This processor features the Radeon Graphics integrated graphics solution.\nHardware virtualization is available on the Ryzen 7 7700X, which greatly improves virtual machine performance. Programs using Advanced Vector Extensions (AVX) can run on this processor, boosting performance for calculation-heavy applications. Besides AVX, AMD has added support for the newer AVX2 and AVX-512 instructions, too.",
+    "final_context_ids": [
+      "amd-ryzen-7-7700x-p1-paragraph-3",
+      "amd-ryzen-7-7700x-p1-paragraph-2",
+      "amd-ryzen-7-7700x-p1-paragraph-4"
+    ],
+    "model_calls": 2,
+    "token_usage": {
+      "prompt": 1561,
+      "completion": 299
+    },
+    "elapsed_ms": 69844.72599999572
+  },
+  {
+    "query_id": "T03",
+    "split": "test",
+    "answerable": true,
+    "method": "bm25",
+    "status": "answered",
+    "answer": "The AMD Ryzen 7 7700X3D has 96 MB of L3 cache [amd-ryzen-7-7700x3d-p1-paragraph-3].",
+    "citations": [
+      "amd-ryzen-7-7700x3d-p1-paragraph-3"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Ryzen 7 7700X3D L3 cache size",
+        "filters": null,
+        "results": [
+          {
+            "id": "amd-ryzen-7-7700x3d-p1-paragraph-3",
+            "source_id": "amd-ryzen-7-7700x3d",
+            "source": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 7 7700X3D.html",
+            "page": 1,
+            "text": "The AMD Ryzen 7 7700X3D is a desktop processor with 8 cores, launched in May 2026, at an MSRP of $329. It is part of the Ryzen 7 lineup, using the Zen 4 (Raphael) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 16 threads. Ryzen 7 7700X3D has 96 MB of L3 cache and operates at 4 GHz by default, but can boost up to 4.5 GHz, depending on the workload. AMD is making the Ryzen 7 7700X3D on a 5 nm production node using 11.3 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. The multiplier is locked on Ryzen 7 7700X3D, which limits its overclocking potential.\nWith a TDP of 120 W, the Ryzen 7 7700X3D consumes a lot of power, so good cooling is definitely needed. AMD's processor supports DDR5 memory with a dual-channel interface. The highest officially supported memory speed is 5200 MT/s, but wi",
+            "metadata": {
+              "title": "AMD Ryzen 7 7700X3D Specs | TechPowerUp CPU Database",
+              "source_path": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 7 7700X3D.html",
+              "source_unit_type": "html_document",
+              "character_count": 7471,
+              "extraction_status": "success",
+              "series": "Ryzen 7",
+              "architecture": "Zen 4",
+              "socket": "AMD Socket AM5",
+              "codename": "Raphael",
+              "released": "May 31st, 2026",
+              "memory_type": "DDR5",
+              "memory_channels": "Dual-channel",
+              "memory_bandwidth": "83.2 GB/s",
+              "cache_l1": "64 KB (per core)",
+              "cache_l2": "1 MB (per core)",
+              "cache_l3": "96 MB (shared)",
+              "process_nm": 5,
+              "base_clock_ghz": 4,
+              "boost_clock_ghz": 4.5,
+              "tdp_w": 120,
+              "memory_speed_mts": 5200,
+              "cores": 8,
+              "threads": 16,
+              "ecc_memory": true
+            },
+            "score": 11.202183776047157,
+            "strategy": "bm25"
+          },
+          {
+            "id": "amd-ryzen-7-7700x3d-p1-paragraph-2",
+            "source_id": "amd-ryzen-7-7700x3d",
+            "source": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 7 7700X3D.html",
+            "page": 1,
+            "text": "Modder Fits RTX 5090 With Four 8-Pin Connectors, Halving Current per Wire\n(80)\n\nCPU Database\n\nAMD Ryzen 7\n\nAMD Ryzen 7 7700X3D Specs\n\nReport an Error\n\nAMD Ryzen 7 7700X3D\n\n8\n\nCores\n\n16\n\nThreads\n\n120 W\n\nTDP\n\n4 GHz\n\nFrequency\n\n4.5 GHz\n\nBoost\n\nRaphael\n\nCodename\n\nSocket AM5\n\nSocket\n\nFront\n\nBack\n\nPackage\n\nInstalled\n\nConnectivity\n\nAMD Socket AM5",
+            "metadata": {
+              "title": "AMD Ryzen 7 7700X3D Specs | TechPowerUp CPU Database",
+              "source_path": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 7 7700X3D.html",
+              "source_unit_type": "html_document",
+              "character_count": 7471,
+              "extraction_status": "success",
+              "series": "Ryzen 7",
+              "architecture": "Zen 4",
+              "socket": "AMD Socket AM5",
+              "codename": "Raphael",
+              "released": "May 31st, 2026",
+              "memory_type": "DDR5",
+              "memory_channels": "Dual-channel",
+              "memory_bandwidth": "83.2 GB/s",
+              "cache_l1": "64 KB (per core)",
+              "cache_l2": "1 MB (per core)",
+              "cache_l3": "96 MB (shared)",
+              "process_nm": 5,
+              "base_clock_ghz": 4,
+              "boost_clock_ghz": 4.5,
+              "tdp_w": 120,
+              "memory_speed_mts": 5200,
+              "cores": 8,
+              "threads": 16,
+              "ecc_memory": true
+            },
+            "score": 7.490104538243656,
+            "strategy": "bm25"
+          },
+          {
+            "id": "amd-ryzen-7-8700ge-p1-paragraph-5",
+            "source_id": "amd-ryzen-7-8700ge",
+            "source": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 7 8700GE.html",
+            "page": 1,
+            "text": "Physical\n\nSocket:\n|\nAMD Socket AM5\n\nFoundry:\n| TSMC\n\nProcess Size:\n| 4 nm\n\nTransistors:\n| 25.0 billion\n\nDie Size:\n| 178 mm²\n\nPackage:\n| FC-LGA1718\n\ntJMax:\n| 95°C\n\nProcessor\n\nMarket:\n| Desktop\n\nProduction Status:\n| Active\n\nRelease Date:\n| Unknown\n\nPart#:\n| 100-000001240\n\nPerformance\n\nFrequency:\n| 3.6 GHz\n\nTurbo Clock:\n| up to 4.8 GHz\n\nBase Clock:\n| 100 MHz\n\nMultiplier:\n| 36.0x\n\nMultiplier Unlocked:\n| Yes\n\nXDNA NPU: | 16 TOPS\n\nTDP:\n| 35 W\n\nConfigurable TDP: | 45 W\n\nPPT: | 47-61 W\n\nArchitecture\n\nCodename:\n| Phoenix\n\nGeneration:\n|\nRyzen 7\n\n(Zen 4 (Phoenix))\n\nMemory Support:\n|\nDDR5\n\nRated Speed:\n|\n5200 MT/s\n\nMemory Bus:\n|\nDual-channel\n\nMemory Bandwidth:\n|\n83.2 GB/s\n\nMax. Memory:\n|\n256 GB\n\nECC Memory:\n|\nNo\n\nPCI-Express:\n|\nGen 4, 20 Lanes\n(CPU only)\n\nChipsets:\n|\nX670E, X670, B650E, B650, A620\n\nCore Config\n\n# of Cores:\n| 8\n\n# of Threads:\n| 16\n\nSMP # CPUs:\n| 1\n\nIntegrated Graphics:\n|\nRadeon 780M\n\nCache\n\nCache L1:\n| 64 KB (per core)\n\nCache L2:\n| 1 MB (per core)\n\nCache L3:\n| 16 MB (shared)",
+            "metadata": {
+              "title": "AMD Ryzen 7 8700GE Specs | TechPowerUp CPU Database",
+              "source_path": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 7 8700GE.html",
+              "source_unit_type": "html_document",
+              "character_count": 6992,
+              "extraction_status": "success",
+              "series": "Ryzen 7",
+              "architecture": "Zen 4",
+              "socket": "AMD Socket AM5",
+              "codename": "Phoenix",
+              "released": "Unknown",
+              "memory_type": "DDR5",
+              "memory_channels": "Dual-channel",
+              "memory_bandwidth": "83.2 GB/s",
+              "cache_l1": "64 KB (per core)",
+              "cache_l2": "1 MB (per core)",
+              "cache_l3": "16 MB (shared)",
+              "process_nm": 4,
+              "base_clock_ghz": 3.6,
+              "boost_clock_ghz": 4.8,
+              "tdp_w": 35,
+              "memory_speed_mts": 5200,
+              "cores": 8,
+              "threads": 16,
+              "ecc_memory": false
+            },
+            "score": 7.402398513907212,
+            "strategy": "bm25"
+          }
+        ],
+        "context": "[amd-ryzen-7-7700x3d-p1-paragraph-3 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 7 7700X3D.html | page 1]\nThe AMD Ryzen 7 7700X3D is a desktop processor with 8 cores, launched in May 2026, at an MSRP of $329. It is part of the Ryzen 7 lineup, using the Zen 4 (Raphael) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 16 threads. Ryzen 7 7700X3D has 96 MB of L3 cache and operates at 4 GHz by default, but can boost up to 4.5 GHz, depending on the workload. AMD is making the Ryzen 7 7700X3D on a 5 nm production node using 11.3 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. The multiplier is locked on Ryzen 7 7700X3D, which limits its overclocking potential.\nWith a TDP of 120 W, the Ryzen 7 7700X3D consumes a lot of power, so good cooling is definitely needed. AMD's processor supports DDR5 memory with a dual-channel interface. The highest officially supported memory speed is 5200 MT/s, but wi\n\n[amd-ryzen-7-7700x3d-p1-paragraph-2 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 7 7700X3D.html | page 1]\nModder Fits RTX 5090 With Four 8-Pin Connectors, Halving Current per Wire\n(80)\n\nCPU Database\n\nAMD Ryzen 7\n\nAMD Ryzen 7 7700X3D Specs\n\nReport an Error\n\nAMD Ryzen 7 7700X3D\n\n8\n\nCores\n\n16\n\nThreads\n\n120 W\n\nTDP\n\n4 GHz\n\nFrequency\n\n4.5 GHz\n\nBoost\n\nRaphael\n\nCodename\n\nSocket AM5\n\nSocket\n\nFront\n\nBack\n\nPackage\n\nInstalled\n\nConnectivity\n\nAMD Socket AM5\n\n[amd-ryzen-7-8700ge-p1-paragraph-5 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 7 8700GE.html | page 1]\nPhysical\n\nSocket:\n|\nAMD Socket AM5\n\nFoundry:\n| TSMC\n\nProcess Size:\n| 4 nm\n\nTransistors:\n| 25.0 billion\n\nDie Size:\n| 178 mm²\n\nPackage:\n| FC-LGA1718\n\ntJMax:\n| 95°C\n\nProcessor\n\nMarket:\n| Desktop\n\nProduction Status:\n| Active\n\nRelease Date:\n| Unknown\n\nPart#:\n| 100-000001240\n\nPerformance\n\nFrequency:\n| 3.6 GHz\n\nTurbo Clock:\n| up to 4.8 GHz\n\nBase Clock:\n| 100 MHz\n\nMultiplier:\n| 36.0x\n\nMultiplier Unlocked:\n| Yes\n\nXDNA NPU: | 16 TOPS\n\nTDP:\n| 35 W\n\nConfigurable TDP: | 45 W\n\nPPT: | 47-61 W\n\nArchitecture\n\nCodename:\n| Phoenix\n\nGeneration:\n|\nRyzen 7\n\n(Zen 4 (Phoenix))\n\nMemory Support:\n|\nDDR5\n\nRated Speed:\n|\n5200 MT/s\n\nMemory Bus:\n|\nDual-channel\n\nMemory Bandwidth:\n|\n83.2 GB/s\n\nMax. Memory:\n|\n256 GB\n\nECC Memory:\n|\nNo\n\nPCI-Express:\n|\nGen 4, 20 Lanes\n(CPU only)\n\nChipsets:\n|\nX670E, X670, B650E, B650, A620\n\nCore Config\n\n# of Cores:\n| 8\n\n# of Threads:\n| 16\n\nSMP # CPUs:\n| 1\n\nIntegrated Graphics:\n|\nRadeon 780M\n\nCache\n\nCache L1:\n| 64 KB (per core)\n\nCache L2:\n| 1 MB (per core)\n\nCache L3:\n| 16 MB (shared)",
+        "context_ids": [
+          "amd-ryzen-7-7700x3d-p1-paragraph-3",
+          "amd-ryzen-7-7700x3d-p1-paragraph-2",
+          "amd-ryzen-7-8700ge-p1-paragraph-5"
+        ],
+        "context_chars": 2912
+      },
+      {
+        "event": "answer_decision",
+        "model_abstain": true,
+        "model_answer": "The AMD Ryzen 7 7700X3D has 96 MB of L3 cache [amd-ryzen-7-7700x3d-p1-paragraph-3].",
+        "model_citations": []
+      },
+      {
+        "event": "answer_recovered",
+        "reason": "cited statement in final context without abstention language"
+      }
+    ],
+    "final_context": "[amd-ryzen-7-7700x3d-p1-paragraph-3 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 7 7700X3D.html | page 1]\nThe AMD Ryzen 7 7700X3D is a desktop processor with 8 cores, launched in May 2026, at an MSRP of $329. It is part of the Ryzen 7 lineup, using the Zen 4 (Raphael) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 16 threads. Ryzen 7 7700X3D has 96 MB of L3 cache and operates at 4 GHz by default, but can boost up to 4.5 GHz, depending on the workload. AMD is making the Ryzen 7 7700X3D on a 5 nm production node using 11.3 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. The multiplier is locked on Ryzen 7 7700X3D, which limits its overclocking potential.\nWith a TDP of 120 W, the Ryzen 7 7700X3D consumes a lot of power, so good cooling is definitely needed. AMD's processor supports DDR5 memory with a dual-channel interface. The highest officially supported memory speed is 5200 MT/s, but wi\n\n[amd-ryzen-7-7700x3d-p1-paragraph-2 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 7 7700X3D.html | page 1]\nModder Fits RTX 5090 With Four 8-Pin Connectors, Halving Current per Wire\n(80)\n\nCPU Database\n\nAMD Ryzen 7\n\nAMD Ryzen 7 7700X3D Specs\n\nReport an Error\n\nAMD Ryzen 7 7700X3D\n\n8\n\nCores\n\n16\n\nThreads\n\n120 W\n\nTDP\n\n4 GHz\n\nFrequency\n\n4.5 GHz\n\nBoost\n\nRaphael\n\nCodename\n\nSocket AM5\n\nSocket\n\nFront\n\nBack\n\nPackage\n\nInstalled\n\nConnectivity\n\nAMD Socket AM5\n\n[amd-ryzen-7-8700ge-p1-paragraph-5 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 7 8700GE.html | page 1]\nPhysical\n\nSocket:\n|\nAMD Socket AM5\n\nFoundry:\n| TSMC\n\nProcess Size:\n| 4 nm\n\nTransistors:\n| 25.0 billion\n\nDie Size:\n| 178 mm²\n\nPackage:\n| FC-LGA1718\n\ntJMax:\n| 95°C\n\nProcessor\n\nMarket:\n| Desktop\n\nProduction Status:\n| Active\n\nRelease Date:\n| Unknown\n\nPart#:\n| 100-000001240\n\nPerformance\n\nFrequency:\n| 3.6 GHz\n\nTurbo Clock:\n| up to 4.8 GHz\n\nBase Clock:\n| 100 MHz\n\nMultiplier:\n| 36.0x\n\nMultiplier Unlocked:\n| Yes\n\nXDNA NPU: | 16 TOPS\n\nTDP:\n| 35 W\n\nConfigurable TDP: | 45 W\n\nPPT: | 47-61 W\n\nArchitecture\n\nCodename:\n| Phoenix\n\nGeneration:\n|\nRyzen 7\n\n(Zen 4 (Phoenix))\n\nMemory Support:\n|\nDDR5\n\nRated Speed:\n|\n5200 MT/s\n\nMemory Bus:\n|\nDual-channel\n\nMemory Bandwidth:\n|\n83.2 GB/s\n\nMax. Memory:\n|\n256 GB\n\nECC Memory:\n|\nNo\n\nPCI-Express:\n|\nGen 4, 20 Lanes\n(CPU only)\n\nChipsets:\n|\nX670E, X670, B650E, B650, A620\n\nCore Config\n\n# of Cores:\n| 8\n\n# of Threads:\n| 16\n\nSMP # CPUs:\n| 1\n\nIntegrated Graphics:\n|\nRadeon 780M\n\nCache\n\nCache L1:\n| 64 KB (per core)\n\nCache L2:\n| 1 MB (per core)\n\nCache L3:\n| 16 MB (shared)",
+    "final_context_ids": [
+      "amd-ryzen-7-7700x3d-p1-paragraph-3",
+      "amd-ryzen-7-7700x3d-p1-paragraph-2",
+      "amd-ryzen-7-8700ge-p1-paragraph-5"
+    ],
+    "model_calls": 2,
+    "token_usage": {
+      "prompt": 1876,
+      "completion": 370
+    },
+    "elapsed_ms": 73256.75830000546
+  },
+  {
+    "query_id": "T04",
+    "split": "test",
+    "answerable": true,
+    "method": "bm25",
+    "status": "answered",
+    "answer": "Ryzen 9 7900X3D có 12 nhân [amd-ryzen-9-7900x3d-p1-paragraph-3] [amd-ryzen-9-7900x3d-p1-paragraph-2].",
+    "citations": [
+      "amd-ryzen-9-7900x3d-p1-paragraph-3",
+      "amd-ryzen-9-7900x3d-p1-paragraph-2"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Ryzen 9 7900X3D số nhân",
+        "filters": null,
+        "results": [
+          {
+            "id": "amd-ryzen-9-7900x3d-p1-paragraph-3",
+            "source_id": "amd-ryzen-9-7900x3d",
+            "source": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7900X3D.html",
+            "page": 1,
+            "text": "The AMD Ryzen 9 7900X3D is a desktop processor with 12 cores, launched in January 2023, at an MSRP of $599. It is part of the Ryzen 9 lineup, using the Zen 4 (Raphael) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 24 threads. Ryzen 9 7900X3D has 128 MB of L3 cache and operates at 4.4 GHz by default, but can boost up to 5.6 GHz, depending on the workload. AMD is building the Ryzen 9 7900X3D on a 5 nm production process using 17.8 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. You may freely adjust the unlocked multiplier on Ryzen 9 7900X3D, which simplifies overclocking greatly, as you can easily dial in any overclocking frequency.\nWith a TDP of 120 W, the Ryzen 9 7900X3D consumes a lot of power, so good cooling is definitely needed. AMD's processor supports DDR5 memory with a dual",
+            "metadata": {
+              "title": "AMD Ryzen 9 7900X3D Specs | TechPowerUp CPU Database",
+              "source_path": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7900X3D.html",
+              "source_unit_type": "html_document",
+              "character_count": 7799,
+              "extraction_status": "success",
+              "series": "Ryzen 9",
+              "architecture": "Zen 4",
+              "socket": "AMD Socket AM5",
+              "codename": "Raphael",
+              "released": "Jan 4th, 2023",
+              "memory_type": "DDR5",
+              "memory_channels": "Dual-channel",
+              "memory_bandwidth": "83.2 GB/s",
+              "cache_l1": "64 KB (per core)",
+              "cache_l2": "1 MB (per core)",
+              "cache_l3": "128 MB",
+              "process_nm": 5,
+              "base_clock_ghz": 4.4,
+              "boost_clock_ghz": 5.6,
+              "tdp_w": 120,
+              "memory_speed_mts": 5200,
+              "cores": 12,
+              "threads": 24,
+              "ecc_memory": true
+            },
+            "score": 10.048358937381723,
+            "strategy": "bm25"
+          },
+          {
+            "id": "amd-ryzen-9-7900x3d-p1-paragraph-2",
+            "source_id": "amd-ryzen-9-7900x3d",
+            "source": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7900X3D.html",
+            "page": 1,
+            "text": "Modder Fits RTX 5090 With Four 8-Pin Connectors, Halving Current per Wire\n(80)\n\nCPU Database\n\nAMD Ryzen 9\n\nAMD Ryzen 9 7900X3D Specs\n\nReport an Error\n\nAMD Ryzen 9 7900X3D\n\n12\n\nCores\n\n24\n\nThreads\n\n120 W\n\nTDP\n\n4.4 GHz\n\nFrequency\n\n5.6 GHz\n\nBoost\n\nRaphael\n\nCodename\n\nSocket AM5\n\nSocket\n\nFront\n\nBack\n\nDelidded\n\nPackage\n\nConnectivity\n\nAMD Socket AM5",
+            "metadata": {
+              "title": "AMD Ryzen 9 7900X3D Specs | TechPowerUp CPU Database",
+              "source_path": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7900X3D.html",
+              "source_unit_type": "html_document",
+              "character_count": 7799,
+              "extraction_status": "success",
+              "series": "Ryzen 9",
+              "architecture": "Zen 4",
+              "socket": "AMD Socket AM5",
+              "codename": "Raphael",
+              "released": "Jan 4th, 2023",
+              "memory_type": "DDR5",
+              "memory_channels": "Dual-channel",
+              "memory_bandwidth": "83.2 GB/s",
+              "cache_l1": "64 KB (per core)",
+              "cache_l2": "1 MB (per core)",
+              "cache_l3": "128 MB",
+              "process_nm": 5,
+              "base_clock_ghz": 4.4,
+              "boost_clock_ghz": 5.6,
+              "tdp_w": 120,
+              "memory_speed_mts": 5200,
+              "cores": 12,
+              "threads": 24,
+              "ecc_memory": true
+            },
+            "score": 8.971034828563702,
+            "strategy": "bm25"
+          },
+          {
+            "id": "amd-ryzen-9-7900x3d-p1-paragraph-4",
+            "source_id": "amd-ryzen-9-7900x3d",
+            "source": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7900X3D.html",
+            "page": 1,
+            "text": "-channel interface. The highest officially supported memory speed is 5200 MT/s, but with overclocking (and the right memory modules) you can go even higher. ECC memory is supported, too, which is an important capability for mission-critical systems, to avoid data corruption. For communication with other components in the machine, Ryzen 9 7900X3D uses a PCI-Express Gen 5 connection. This processor features the Radeon Graphics integrated graphics solution.\nHardware virtualization is available on the Ryzen 9 7900X3D, which greatly improves virtual machine performance. Programs using Advanced Vector Extensions (AVX) will run on this processor, boosting performance for calculation-heavy applications. Besides AVX, AMD has added support for the newer AVX2 and AVX-512 instructions, too.",
+            "metadata": {
+              "title": "AMD Ryzen 9 7900X3D Specs | TechPowerUp CPU Database",
+              "source_path": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7900X3D.html",
+              "source_unit_type": "html_document",
+              "character_count": 7799,
+              "extraction_status": "success",
+              "series": "Ryzen 9",
+              "architecture": "Zen 4",
+              "socket": "AMD Socket AM5",
+              "codename": "Raphael",
+              "released": "Jan 4th, 2023",
+              "memory_type": "DDR5",
+              "memory_channels": "Dual-channel",
+              "memory_bandwidth": "83.2 GB/s",
+              "cache_l1": "64 KB (per core)",
+              "cache_l2": "1 MB (per core)",
+              "cache_l3": "128 MB",
+              "process_nm": 5,
+              "base_clock_ghz": 4.4,
+              "boost_clock_ghz": 5.6,
+              "tdp_w": 120,
+              "memory_speed_mts": 5200,
+              "cores": 12,
+              "threads": 24,
+              "ecc_memory": true
+            },
+            "score": 8.448415692566718,
+            "strategy": "bm25"
+          }
+        ],
+        "context": "[amd-ryzen-9-7900x3d-p1-paragraph-3 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7900X3D.html | page 1]\nThe AMD Ryzen 9 7900X3D is a desktop processor with 12 cores, launched in January 2023, at an MSRP of $599. It is part of the Ryzen 9 lineup, using the Zen 4 (Raphael) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 24 threads. Ryzen 9 7900X3D has 128 MB of L3 cache and operates at 4.4 GHz by default, but can boost up to 5.6 GHz, depending on the workload. AMD is building the Ryzen 9 7900X3D on a 5 nm production process using 17.8 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. You may freely adjust the unlocked multiplier on Ryzen 9 7900X3D, which simplifies overclocking greatly, as you can easily dial in any overclocking frequency.\nWith a TDP of 120 W, the Ryzen 9 7900X3D consumes a lot of power, so good cooling is definitely needed. AMD's processor supports DDR5 memory with a dual\n\n[amd-ryzen-9-7900x3d-p1-paragraph-2 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7900X3D.html | page 1]\nModder Fits RTX 5090 With Four 8-Pin Connectors, Halving Current per Wire\n(80)\n\nCPU Database\n\nAMD Ryzen 9\n\nAMD Ryzen 9 7900X3D Specs\n\nReport an Error\n\nAMD Ryzen 9 7900X3D\n\n12\n\nCores\n\n24\n\nThreads\n\n120 W\n\nTDP\n\n4.4 GHz\n\nFrequency\n\n5.6 GHz\n\nBoost\n\nRaphael\n\nCodename\n\nSocket AM5\n\nSocket\n\nFront\n\nBack\n\nDelidded\n\nPackage\n\nConnectivity\n\nAMD Socket AM5\n\n[amd-ryzen-9-7900x3d-p1-paragraph-4 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7900X3D.html | page 1]\n-channel interface. The highest officially supported memory speed is 5200 MT/s, but with overclocking (and the right memory modules) you can go even higher. ECC memory is supported, too, which is an important capability for mission-critical systems, to avoid data corruption. For communication with other components in the machine, Ryzen 9 7900X3D uses a PCI-Express Gen 5 connection. This processor features the Radeon Graphics integrated graphics solution.\nHardware virtualization is available on the Ryzen 9 7900X3D, which greatly improves virtual machine performance. Programs using Advanced Vector Extensions (AVX) will run on this processor, boosting performance for calculation-heavy applications. Besides AVX, AMD has added support for the newer AVX2 and AVX-512 instructions, too.",
+        "context_ids": [
+          "amd-ryzen-9-7900x3d-p1-paragraph-3",
+          "amd-ryzen-9-7900x3d-p1-paragraph-2",
+          "amd-ryzen-9-7900x3d-p1-paragraph-4"
+        ],
+        "context_chars": 2712
+      },
+      {
+        "event": "answer_decision",
+        "model_abstain": true,
+        "model_answer": "Ryzen 9 7900X3D có 12 nhân [amd-ryzen-9-7900x3d-p1-paragraph-3, amd-ryzen-9-7900x3d-p1-paragraph-2].",
+        "model_citations": []
+      },
+      {
+        "event": "answer_recovered",
+        "reason": "cited statement in final context without abstention language"
+      }
+    ],
+    "final_context": "[amd-ryzen-9-7900x3d-p1-paragraph-3 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7900X3D.html | page 1]\nThe AMD Ryzen 9 7900X3D is a desktop processor with 12 cores, launched in January 2023, at an MSRP of $599. It is part of the Ryzen 9 lineup, using the Zen 4 (Raphael) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 24 threads. Ryzen 9 7900X3D has 128 MB of L3 cache and operates at 4.4 GHz by default, but can boost up to 5.6 GHz, depending on the workload. AMD is building the Ryzen 9 7900X3D on a 5 nm production process using 17.8 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. You may freely adjust the unlocked multiplier on Ryzen 9 7900X3D, which simplifies overclocking greatly, as you can easily dial in any overclocking frequency.\nWith a TDP of 120 W, the Ryzen 9 7900X3D consumes a lot of power, so good cooling is definitely needed. AMD's processor supports DDR5 memory with a dual\n\n[amd-ryzen-9-7900x3d-p1-paragraph-2 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7900X3D.html | page 1]\nModder Fits RTX 5090 With Four 8-Pin Connectors, Halving Current per Wire\n(80)\n\nCPU Database\n\nAMD Ryzen 9\n\nAMD Ryzen 9 7900X3D Specs\n\nReport an Error\n\nAMD Ryzen 9 7900X3D\n\n12\n\nCores\n\n24\n\nThreads\n\n120 W\n\nTDP\n\n4.4 GHz\n\nFrequency\n\n5.6 GHz\n\nBoost\n\nRaphael\n\nCodename\n\nSocket AM5\n\nSocket\n\nFront\n\nBack\n\nDelidded\n\nPackage\n\nConnectivity\n\nAMD Socket AM5\n\n[amd-ryzen-9-7900x3d-p1-paragraph-4 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7900X3D.html | page 1]\n-channel interface. The highest officially supported memory speed is 5200 MT/s, but with overclocking (and the right memory modules) you can go even higher. ECC memory is supported, too, which is an important capability for mission-critical systems, to avoid data corruption. For communication with other components in the machine, Ryzen 9 7900X3D uses a PCI-Express Gen 5 connection. This processor features the Radeon Graphics integrated graphics solution.\nHardware virtualization is available on the Ryzen 9 7900X3D, which greatly improves virtual machine performance. Programs using Advanced Vector Extensions (AVX) will run on this processor, boosting performance for calculation-heavy applications. Besides AVX, AMD has added support for the newer AVX2 and AVX-512 instructions, too.",
+    "final_context_ids": [
+      "amd-ryzen-9-7900x3d-p1-paragraph-3",
+      "amd-ryzen-9-7900x3d-p1-paragraph-2",
+      "amd-ryzen-9-7900x3d-p1-paragraph-4"
+    ],
+    "model_calls": 2,
+    "token_usage": {
+      "prompt": 1591,
+      "completion": 392
+    },
+    "elapsed_ms": 71707.30569999432
+  },
+  {
+    "query_id": "T05",
+    "split": "test",
+    "answerable": true,
+    "method": "bm25",
+    "status": "answered",
+    "answer": "Xung hoạt động mặc định của Ryzen 9 7950X là 4.5 GHz [amd-ryzen-9-7950x-p1-paragraph-3].",
+    "citations": [
+      "amd-ryzen-9-7950x-p1-paragraph-3"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Ryzen 9 7950X base clock speed",
+        "filters": null,
+        "results": [
+          {
+            "id": "amd-ryzen-9-7950x-p1-paragraph-3",
+            "source_id": "amd-ryzen-9-7950x",
+            "source": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7950X.html",
+            "page": 1,
+            "text": "The AMD Ryzen 9 7950X is a desktop processor with 16 cores, launched in September 2022, at an MSRP of $699. It is part of the Ryzen 9 lineup, using the Zen 4 (Raphael) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 32 threads. Ryzen 9 7950X has 64 MB of L3 cache and operates at 4.5 GHz by default, but can boost up to 5.7 GHz, depending on the workload. AMD is making the Ryzen 9 7950X on a 5 nm production node using 13.1 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. You may freely adjust the unlocked multiplier on Ryzen 9 7950X, which simplifies overclocking greatly, as you can easily dial in any overclocking frequency.\nWith a TDP of 170 W, the Ryzen 9 7950X is extremely power hungry, which means you need top-notch cooling. AMD's processor supports DDR5 memory with a dual-channel i",
+            "metadata": {
+              "title": "AMD Ryzen 9 7950X Specs | TechPowerUp CPU Database",
+              "source_path": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7950X.html",
+              "source_unit_type": "html_document",
+              "character_count": 7640,
+              "extraction_status": "success",
+              "series": "Ryzen 9",
+              "architecture": "Zen 4",
+              "socket": "AMD Socket AM5",
+              "codename": "Raphael",
+              "released": "Sep 27th, 2022",
+              "memory_type": "DDR5",
+              "memory_channels": "Dual-channel",
+              "memory_bandwidth": "83.2 GB/s",
+              "cache_l1": "64 KB (per core)",
+              "cache_l2": "1 MB (per core)",
+              "cache_l3": "64 MB",
+              "process_nm": 5,
+              "base_clock_ghz": 4.5,
+              "boost_clock_ghz": 5.7,
+              "tdp_w": 170,
+              "memory_speed_mts": 5200,
+              "cores": 16,
+              "threads": 32,
+              "ecc_memory": true
+            },
+            "score": 10.043776502745049,
+            "strategy": "bm25"
+          },
+          {
+            "id": "amd-ryzen-9-7950x-p1-paragraph-4",
+            "source_id": "amd-ryzen-9-7950x",
+            "source": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7950X.html",
+            "page": 1,
+            "text": "nterface. The highest officially supported memory speed is 5200 MT/s, but with overclocking (and the right memory modules) you can go even higher. ECC memory is supported, too, which is an important capability for mission-critical systems, to avoid data corruption. For communication with other components in the machine, Ryzen 9 7950X uses a PCI-Express Gen 5 connection. This processor features the Radeon Graphics integrated graphics solution.\nHardware virtualization is available on the Ryzen 9 7950X, which greatly improves virtual machine performance. Programs using Advanced Vector Extensions (AVX) can run on this processor, boosting performance for calculation-heavy applications. Besides AVX, AMD has added support for the newer AVX2 and AVX-512 instructions, too.",
+            "metadata": {
+              "title": "AMD Ryzen 9 7950X Specs | TechPowerUp CPU Database",
+              "source_path": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7950X.html",
+              "source_unit_type": "html_document",
+              "character_count": 7640,
+              "extraction_status": "success",
+              "series": "Ryzen 9",
+              "architecture": "Zen 4",
+              "socket": "AMD Socket AM5",
+              "codename": "Raphael",
+              "released": "Sep 27th, 2022",
+              "memory_type": "DDR5",
+              "memory_channels": "Dual-channel",
+              "memory_bandwidth": "83.2 GB/s",
+              "cache_l1": "64 KB (per core)",
+              "cache_l2": "1 MB (per core)",
+              "cache_l3": "64 MB",
+              "process_nm": 5,
+              "base_clock_ghz": 4.5,
+              "boost_clock_ghz": 5.7,
+              "tdp_w": 170,
+              "memory_speed_mts": 5200,
+              "cores": 16,
+              "threads": 32,
+              "ecc_memory": true
+            },
+            "score": 10.000679621943899,
+            "strategy": "bm25"
+          },
+          {
+            "id": "amd-ryzen-3-8300g-p1-paragraph-5",
+            "source_id": "amd-ryzen-3-8300g",
+            "source": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 3 8300G.html",
+            "page": 1,
+            "text": "Physical\n\nSocket:\n|\nAMD Socket AM5\n\nFoundry:\n| TSMC\n\nProcess Size:\n| 4 nm\n\nTransistors:\n| 20.9 billion\n\nDie Size:\n| 137 mm²\n\nPackage:\n| FC-LGA1718\n\ntJMax:\n| 95°C\n\nProcessor\n\nMarket:\n| Desktop\n\nProduction Status:\n| Active\n\nRelease Date:\n| Jan 8th, 2024\n\nRetail Availability: | Jan 31st, 2024\n\nLaunch Price:\n| $176\n\nPart#:\n| 100-000001492\n\nBundled Cooler:\n| Wraith Stealth\n\nPerformance\n\nFrequency:\n| 3.4 GHz\n\nP-Core Base: | 4.0 GHz\n\nTurbo Clock:\n| up to 4.9 GHz\n\nE-Core Frequency:\n|\n3.2 GHz\n\nup to 3.6 GHz\n\nBase Clock:\n| 100 MHz\n\nMultiplier:\n| 40.0x\n\nMultiplier Unlocked:\n| No\n\nTDP:\n| 65 W\n\nConfigurable TDP: | 45 W\n\nPPT: | 61-88 W\n\nArchitecture\n\nCodename:\n| Phoenix2\n\nGeneration:\n|\nRyzen 3\n\n(Zen 4 (Phoenix))\n\nMemory Support:\n|\nDDR5\n\nRated Speed:\n|\n5200 MT/s\n\nMemory Bus:\n|\nDual-channel\n\nMemory Bandwidth:\n|\n83.2 GB/s\n\nMax. Memory:\n|\n256 GB\n\nECC Memory:\n|\nYes\n\nPCI-Express:\n|\nGen 4, 14 Lanes\n(CPU only)\n\nChipsets:\n|\nX670E, X670, B650E, B650, A620\n\nCore Config\n\n# of Cores:\n| 4\n\n# of Threads:\n| 8",
+            "metadata": {
+              "title": "AMD Ryzen 3 8300G Specs | TechPowerUp CPU Database",
+              "source_path": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 3 8300G.html",
+              "source_unit_type": "html_document",
+              "character_count": 7370,
+              "extraction_status": "success",
+              "series": "Ryzen 3",
+              "architecture": "Zen 4",
+              "socket": "AMD Socket AM5",
+              "codename": "Phoenix2",
+              "released": "Jan 8th, 2024",
+              "memory_type": "DDR5",
+              "memory_channels": "Dual-channel",
+              "memory_bandwidth": "83.2 GB/s",
+              "cache_l1": "64 KB (per core)",
+              "cache_l2": "1 MB (per core)",
+              "cache_l3": "8 MB (shared)",
+              "process_nm": 4,
+              "base_clock_ghz": 3.4,
+              "boost_clock_ghz": 4.9,
+              "tdp_w": 65,
+              "memory_speed_mts": 5200,
+              "cores": 4,
+              "threads": 8,
+              "ecc_memory": true
+            },
+            "score": 9.454543159820656,
+            "strategy": "bm25"
+          }
+        ],
+        "context": "[amd-ryzen-9-7950x-p1-paragraph-3 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7950X.html | page 1]\nThe AMD Ryzen 9 7950X is a desktop processor with 16 cores, launched in September 2022, at an MSRP of $699. It is part of the Ryzen 9 lineup, using the Zen 4 (Raphael) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 32 threads. Ryzen 9 7950X has 64 MB of L3 cache and operates at 4.5 GHz by default, but can boost up to 5.7 GHz, depending on the workload. AMD is making the Ryzen 9 7950X on a 5 nm production node using 13.1 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. You may freely adjust the unlocked multiplier on Ryzen 9 7950X, which simplifies overclocking greatly, as you can easily dial in any overclocking frequency.\nWith a TDP of 170 W, the Ryzen 9 7950X is extremely power hungry, which means you need top-notch cooling. AMD's processor supports DDR5 memory with a dual-channel i\n\n[amd-ryzen-9-7950x-p1-paragraph-4 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7950X.html | page 1]\nnterface. The highest officially supported memory speed is 5200 MT/s, but with overclocking (and the right memory modules) you can go even higher. ECC memory is supported, too, which is an important capability for mission-critical systems, to avoid data corruption. For communication with other components in the machine, Ryzen 9 7950X uses a PCI-Express Gen 5 connection. This processor features the Radeon Graphics integrated graphics solution.\nHardware virtualization is available on the Ryzen 9 7950X, which greatly improves virtual machine performance. Programs using Advanced Vector Extensions (AVX) can run on this processor, boosting performance for calculation-heavy applications. Besides AVX, AMD has added support for the newer AVX2 and AVX-512 instructions, too.\n\n[amd-ryzen-3-8300g-p1-paragraph-5 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 3 8300G.html | page 1]\nPhysical\n\nSocket:\n|\nAMD Socket AM5\n\nFoundry:\n| TSMC\n\nProcess Size:\n| 4 nm\n\nTransistors:\n| 20.9 billion\n\nDie Size:\n| 137 mm²\n\nPackage:\n| FC-LGA1718\n\ntJMax:\n| 95°C\n\nProcessor\n\nMarket:\n| Desktop\n\nProduction Status:\n| Active\n\nRelease Date:\n| Jan 8th, 2024\n\nRetail Availability: | Jan 31st, 2024\n\nLaunch Price:\n| $176\n\nPart#:\n| 100-000001492\n\nBundled Cooler:\n| Wraith Stealth\n\nPerformance\n\nFrequency:\n| 3.4 GHz\n\nP-Core Base: | 4.0 GHz\n\nTurbo Clock:\n| up to 4.9 GHz\n\nE-Core Frequency:\n|\n3.2 GHz\n\nup to 3.6 GHz\n\nBase Clock:\n| 100 MHz\n\nMultiplier:\n| 40.0x\n\nMultiplier Unlocked:\n| No\n\nTDP:\n| 65 W\n\nConfigurable TDP: | 45 W\n\nPPT: | 61-88 W\n\nArchitecture\n\nCodename:\n| Phoenix2\n\nGeneration:\n|\nRyzen 3\n\n(Zen 4 (Phoenix))\n\nMemory Support:\n|\nDDR5\n\nRated Speed:\n|\n5200 MT/s\n\nMemory Bus:\n|\nDual-channel\n\nMemory Bandwidth:\n|\n83.2 GB/s\n\nMax. Memory:\n|\n256 GB\n\nECC Memory:\n|\nYes\n\nPCI-Express:\n|\nGen 4, 14 Lanes\n(CPU only)\n\nChipsets:\n|\nX670E, X670, B650E, B650, A620\n\nCore Config\n\n# of Cores:\n| 4\n\n# of Threads:\n| 8",
+        "context_ids": [
+          "amd-ryzen-9-7950x-p1-paragraph-3",
+          "amd-ryzen-9-7950x-p1-paragraph-4",
+          "amd-ryzen-3-8300g-p1-paragraph-5"
+        ],
+        "context_chars": 3336
+      },
+      {
+        "event": "answer_decision",
+        "model_abstain": true,
+        "model_answer": "Xung hoạt động mặc định của Ryzen 9 7950X là 4.5 GHz [amd-ryzen-9-7950x-p1-paragraph-3].",
+        "model_citations": []
+      },
+      {
+        "event": "answer_recovered",
+        "reason": "cited statement in final context without abstention language"
+      }
+    ],
+    "final_context": "[amd-ryzen-9-7950x-p1-paragraph-3 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7950X.html | page 1]\nThe AMD Ryzen 9 7950X is a desktop processor with 16 cores, launched in September 2022, at an MSRP of $699. It is part of the Ryzen 9 lineup, using the Zen 4 (Raphael) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 32 threads. Ryzen 9 7950X has 64 MB of L3 cache and operates at 4.5 GHz by default, but can boost up to 5.7 GHz, depending on the workload. AMD is making the Ryzen 9 7950X on a 5 nm production node using 13.1 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. You may freely adjust the unlocked multiplier on Ryzen 9 7950X, which simplifies overclocking greatly, as you can easily dial in any overclocking frequency.\nWith a TDP of 170 W, the Ryzen 9 7950X is extremely power hungry, which means you need top-notch cooling. AMD's processor supports DDR5 memory with a dual-channel i\n\n[amd-ryzen-9-7950x-p1-paragraph-4 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7950X.html | page 1]\nnterface. The highest officially supported memory speed is 5200 MT/s, but with overclocking (and the right memory modules) you can go even higher. ECC memory is supported, too, which is an important capability for mission-critical systems, to avoid data corruption. For communication with other components in the machine, Ryzen 9 7950X uses a PCI-Express Gen 5 connection. This processor features the Radeon Graphics integrated graphics solution.\nHardware virtualization is available on the Ryzen 9 7950X, which greatly improves virtual machine performance. Programs using Advanced Vector Extensions (AVX) can run on this processor, boosting performance for calculation-heavy applications. Besides AVX, AMD has added support for the newer AVX2 and AVX-512 instructions, too.\n\n[amd-ryzen-3-8300g-p1-paragraph-5 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 3 8300G.html | page 1]\nPhysical\n\nSocket:\n|\nAMD Socket AM5\n\nFoundry:\n| TSMC\n\nProcess Size:\n| 4 nm\n\nTransistors:\n| 20.9 billion\n\nDie Size:\n| 137 mm²\n\nPackage:\n| FC-LGA1718\n\ntJMax:\n| 95°C\n\nProcessor\n\nMarket:\n| Desktop\n\nProduction Status:\n| Active\n\nRelease Date:\n| Jan 8th, 2024\n\nRetail Availability: | Jan 31st, 2024\n\nLaunch Price:\n| $176\n\nPart#:\n| 100-000001492\n\nBundled Cooler:\n| Wraith Stealth\n\nPerformance\n\nFrequency:\n| 3.4 GHz\n\nP-Core Base: | 4.0 GHz\n\nTurbo Clock:\n| up to 4.9 GHz\n\nE-Core Frequency:\n|\n3.2 GHz\n\nup to 3.6 GHz\n\nBase Clock:\n| 100 MHz\n\nMultiplier:\n| 40.0x\n\nMultiplier Unlocked:\n| No\n\nTDP:\n| 65 W\n\nConfigurable TDP: | 45 W\n\nPPT: | 61-88 W\n\nArchitecture\n\nCodename:\n| Phoenix2\n\nGeneration:\n|\nRyzen 3\n\n(Zen 4 (Phoenix))\n\nMemory Support:\n|\nDDR5\n\nRated Speed:\n|\n5200 MT/s\n\nMemory Bus:\n|\nDual-channel\n\nMemory Bandwidth:\n|\n83.2 GB/s\n\nMax. Memory:\n|\n256 GB\n\nECC Memory:\n|\nYes\n\nPCI-Express:\n|\nGen 4, 14 Lanes\n(CPU only)\n\nChipsets:\n|\nX670E, X670, B650E, B650, A620\n\nCore Config\n\n# of Cores:\n| 4\n\n# of Threads:\n| 8",
+    "final_context_ids": [
+      "amd-ryzen-9-7950x-p1-paragraph-3",
+      "amd-ryzen-9-7950x-p1-paragraph-4",
+      "amd-ryzen-3-8300g-p1-paragraph-5"
+    ],
+    "model_calls": 2,
+    "token_usage": {
+      "prompt": 1895,
+      "completion": 351
+    },
+    "elapsed_ms": 74747.30529999943
+  },
+  {
+    "query_id": "T06",
+    "split": "test",
+    "answerable": false,
+    "method": "bm25",
+    "status": "abstain",
+    "answer": "The retrieved evidence provides technical specifications and an MSRP of $299, but it does not contain the current retail price of the Ryzen 5 7600X3D in Vietnam.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Ryzen 5 7600X3D giá bán lẻ Việt Nam",
+        "filters": null,
+        "results": [
+          {
+            "id": "amd-ryzen-5-7600x3d-p1-paragraph-3",
+            "source_id": "amd-ryzen-5-7600x3d",
+            "source": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 5 7600X3D.html",
+            "page": 1,
+            "text": "The AMD Ryzen 5 7600X3D is a desktop processor with 6 cores, launched in August 2024, at an MSRP of $299. It is part of the Ryzen 5 lineup, using the Zen 4 (Raphael) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 12 threads. Ryzen 5 7600X3D has 96 MB of L3 cache and operates at 4.1 GHz by default, but can boost up to 4.7 GHz, depending on the workload. AMD is making the Ryzen 5 7600X3D on a 5 nm production node using 11.3 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. The multiplier is locked on Ryzen 5 7600X3D, which limits its overclocking potential.\nWith a TDP of 65 W, the Ryzen 5 7600X3D consumes typical power levels for a modern PC. AMD's processor supports DDR5 memory with a dual-channel interface. The highest officially supported memory speed is 5200 MT/s, but with overclock",
+            "metadata": {
+              "title": "AMD Ryzen 5 7600X3D Specs | TechPowerUp CPU Database",
+              "source_path": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 5 7600X3D.html",
+              "source_unit_type": "html_document",
+              "character_count": 7361,
+              "extraction_status": "success",
+              "series": "Ryzen 5",
+              "architecture": "Zen 4",
+              "socket": "AMD Socket AM5",
+              "codename": "Raphael",
+              "released": "Aug 30th, 2024",
+              "memory_type": "DDR5",
+              "memory_channels": "Dual-channel",
+              "memory_bandwidth": "83.2 GB/s",
+              "cache_l1": "64 KB (per core)",
+              "cache_l2": "1 MB (per core)",
+              "cache_l3": "96 MB (shared)",
+              "process_nm": 5,
+              "base_clock_ghz": 4.1,
+              "boost_clock_ghz": 4.7,
+              "tdp_w": 65,
+              "memory_speed_mts": 5200,
+              "cores": 6,
+              "threads": 12,
+              "ecc_memory": true
+            },
+            "score": 8.127847899136494,
+            "strategy": "bm25"
+          },
+          {
+            "id": "amd-ryzen-5-7600x3d-p1-paragraph-2",
+            "source_id": "amd-ryzen-5-7600x3d",
+            "source": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 5 7600X3D.html",
+            "page": 1,
+            "text": "Modder Fits RTX 5090 With Four 8-Pin Connectors, Halving Current per Wire\n(80)\n\nCPU Database\n\nAMD Ryzen 5\n\nAMD Ryzen 5 7600X3D Specs\n\nReport an Error\n\nAMD Ryzen 5 7600X3D\n\n6\n\nCores\n\n12\n\nThreads\n\n65 W\n\nTDP\n\n4.1 GHz\n\nFrequency\n\n4.7 GHz\n\nBoost\n\nRaphael\n\nCodename\n\nSocket AM5\n\nSocket\n\nFront\n\nConnectivity\n\nAMD Socket AM5",
+            "metadata": {
+              "title": "AMD Ryzen 5 7600X3D Specs | TechPowerUp CPU Database",
+              "source_path": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 5 7600X3D.html",
+              "source_unit_type": "html_document",
+              "character_count": 7361,
+              "extraction_status": "success",
+              "series": "Ryzen 5",
+              "architecture": "Zen 4",
+              "socket": "AMD Socket AM5",
+              "codename": "Raphael",
+              "released": "Aug 30th, 2024",
+              "memory_type": "DDR5",
+              "memory_channels": "Dual-channel",
+              "memory_bandwidth": "83.2 GB/s",
+              "cache_l1": "64 KB (per core)",
+              "cache_l2": "1 MB (per core)",
+              "cache_l3": "96 MB (shared)",
+              "process_nm": 5,
+              "base_clock_ghz": 4.1,
+              "boost_clock_ghz": 4.7,
+              "tdp_w": 65,
+              "memory_speed_mts": 5200,
+              "cores": 6,
+              "threads": 12,
+              "ecc_memory": true
+            },
+            "score": 7.1820811049039275,
+            "strategy": "bm25"
+          },
+          {
+            "id": "amd-ryzen-5-7600x3d-p1-paragraph-4",
+            "source_id": "amd-ryzen-5-7600x3d",
+            "source": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 5 7600X3D.html",
+            "page": 1,
+            "text": "ing (and the right memory modules) you can go even higher. ECC memory is supported, too, which is an important capability for mission-critical systems, to avoid data corruption. For communication with other components in the computer, Ryzen 5 7600X3D uses a PCI-Express Gen 5 connection. This processor features the Radeon Graphics integrated graphics solution.\nHardware virtualization is available on the Ryzen 5 7600X3D, which greatly improves virtual machine performance. Programs using Advanced Vector Extensions (AVX) can run on this processor, boosting performance for calculation-heavy applications. Besides AVX, AMD has added support for the newer AVX2 and AVX-512 instructions, too.",
+            "metadata": {
+              "title": "AMD Ryzen 5 7600X3D Specs | TechPowerUp CPU Database",
+              "source_path": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 5 7600X3D.html",
+              "source_unit_type": "html_document",
+              "character_count": 7361,
+              "extraction_status": "success",
+              "series": "Ryzen 5",
+              "architecture": "Zen 4",
+              "socket": "AMD Socket AM5",
+              "codename": "Raphael",
+              "released": "Aug 30th, 2024",
+              "memory_type": "DDR5",
+              "memory_channels": "Dual-channel",
+              "memory_bandwidth": "83.2 GB/s",
+              "cache_l1": "64 KB (per core)",
+              "cache_l2": "1 MB (per core)",
+              "cache_l3": "96 MB (shared)",
+              "process_nm": 5,
+              "base_clock_ghz": 4.1,
+              "boost_clock_ghz": 4.7,
+              "tdp_w": 65,
+              "memory_speed_mts": 5200,
+              "cores": 6,
+              "threads": 12,
+              "ecc_memory": true
+            },
+            "score": 6.963408418966395,
+            "strategy": "bm25"
+          }
+        ],
+        "context": "[amd-ryzen-5-7600x3d-p1-paragraph-3 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 5 7600X3D.html | page 1]\nThe AMD Ryzen 5 7600X3D is a desktop processor with 6 cores, launched in August 2024, at an MSRP of $299. It is part of the Ryzen 5 lineup, using the Zen 4 (Raphael) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 12 threads. Ryzen 5 7600X3D has 96 MB of L3 cache and operates at 4.1 GHz by default, but can boost up to 4.7 GHz, depending on the workload. AMD is making the Ryzen 5 7600X3D on a 5 nm production node using 11.3 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. The multiplier is locked on Ryzen 5 7600X3D, which limits its overclocking potential.\nWith a TDP of 65 W, the Ryzen 5 7600X3D consumes typical power levels for a modern PC. AMD's processor supports DDR5 memory with a dual-channel interface. The highest officially supported memory speed is 5200 MT/s, but with overclock\n\n[amd-ryzen-5-7600x3d-p1-paragraph-2 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 5 7600X3D.html | page 1]\nModder Fits RTX 5090 With Four 8-Pin Connectors, Halving Current per Wire\n(80)\n\nCPU Database\n\nAMD Ryzen 5\n\nAMD Ryzen 5 7600X3D Specs\n\nReport an Error\n\nAMD Ryzen 5 7600X3D\n\n6\n\nCores\n\n12\n\nThreads\n\n65 W\n\nTDP\n\n4.1 GHz\n\nFrequency\n\n4.7 GHz\n\nBoost\n\nRaphael\n\nCodename\n\nSocket AM5\n\nSocket\n\nFront\n\nConnectivity\n\nAMD Socket AM5\n\n[amd-ryzen-5-7600x3d-p1-paragraph-4 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 5 7600X3D.html | page 1]\ning (and the right memory modules) you can go even higher. ECC memory is supported, too, which is an important capability for mission-critical systems, to avoid data corruption. For communication with other components in the computer, Ryzen 5 7600X3D uses a PCI-Express Gen 5 connection. This processor features the Radeon Graphics integrated graphics solution.\nHardware virtualization is available on the Ryzen 5 7600X3D, which greatly improves virtual machine performance. Programs using Advanced Vector Extensions (AVX) can run on this processor, boosting performance for calculation-heavy applications. Besides AVX, AMD has added support for the newer AVX2 and AVX-512 instructions, too.",
+        "context_ids": [
+          "amd-ryzen-5-7600x3d-p1-paragraph-3",
+          "amd-ryzen-5-7600x3d-p1-paragraph-2",
+          "amd-ryzen-5-7600x3d-p1-paragraph-4"
+        ],
+        "context_chars": 2587
+      },
+      {
+        "event": "answer_decision",
+        "model_abstain": true,
+        "model_answer": "The retrieved evidence provides technical specifications and an MSRP of $299, but it does not contain the current retail price of the Ryzen 5 7600X3D in Vietnam.",
+        "model_citations": []
+      }
+    ],
+    "final_context": "[amd-ryzen-5-7600x3d-p1-paragraph-3 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 5 7600X3D.html | page 1]\nThe AMD Ryzen 5 7600X3D is a desktop processor with 6 cores, launched in August 2024, at an MSRP of $299. It is part of the Ryzen 5 lineup, using the Zen 4 (Raphael) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 12 threads. Ryzen 5 7600X3D has 96 MB of L3 cache and operates at 4.1 GHz by default, but can boost up to 4.7 GHz, depending on the workload. AMD is making the Ryzen 5 7600X3D on a 5 nm production node using 11.3 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. The multiplier is locked on Ryzen 5 7600X3D, which limits its overclocking potential.\nWith a TDP of 65 W, the Ryzen 5 7600X3D consumes typical power levels for a modern PC. AMD's processor supports DDR5 memory with a dual-channel interface. The highest officially supported memory speed is 5200 MT/s, but with overclock\n\n[amd-ryzen-5-7600x3d-p1-paragraph-2 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 5 7600X3D.html | page 1]\nModder Fits RTX 5090 With Four 8-Pin Connectors, Halving Current per Wire\n(80)\n\nCPU Database\n\nAMD Ryzen 5\n\nAMD Ryzen 5 7600X3D Specs\n\nReport an Error\n\nAMD Ryzen 5 7600X3D\n\n6\n\nCores\n\n12\n\nThreads\n\n65 W\n\nTDP\n\n4.1 GHz\n\nFrequency\n\n4.7 GHz\n\nBoost\n\nRaphael\n\nCodename\n\nSocket AM5\n\nSocket\n\nFront\n\nConnectivity\n\nAMD Socket AM5\n\n[amd-ryzen-5-7600x3d-p1-paragraph-4 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 5 7600X3D.html | page 1]\ning (and the right memory modules) you can go even higher. ECC memory is supported, too, which is an important capability for mission-critical systems, to avoid data corruption. For communication with other components in the computer, Ryzen 5 7600X3D uses a PCI-Express Gen 5 connection. This processor features the Radeon Graphics integrated graphics solution.\nHardware virtualization is available on the Ryzen 5 7600X3D, which greatly improves virtual machine performance. Programs using Advanced Vector Extensions (AVX) can run on this processor, boosting performance for calculation-heavy applications. Besides AVX, AMD has added support for the newer AVX2 and AVX-512 instructions, too.",
+    "final_context_ids": [
+      "amd-ryzen-5-7600x3d-p1-paragraph-3",
+      "amd-ryzen-5-7600x3d-p1-paragraph-2",
+      "amd-ryzen-5-7600x3d-p1-paragraph-4"
+    ],
+    "model_calls": 2,
+    "token_usage": {
+      "prompt": 1579,
+      "completion": 396
+    },
+    "elapsed_ms": 73893.95909999439
+  },
+  {
+    "query_id": "T07",
+    "split": "test",
+    "answerable": false,
+    "method": "bm25",
+    "status": "abstain",
+    "answer": "The retrieved evidence does not specify the maximum number of 8K monitors supported by the Ryzen 9 7950X.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Ryzen 9 7950X hỗ trợ tối đa bao nhiêu màn hình 8K",
+        "filters": null,
+        "results": [
+          {
+            "id": "amd-ryzen-9-7950x-p1-paragraph-3",
+            "source_id": "amd-ryzen-9-7950x",
+            "source": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7950X.html",
+            "page": 1,
+            "text": "The AMD Ryzen 9 7950X is a desktop processor with 16 cores, launched in September 2022, at an MSRP of $699. It is part of the Ryzen 9 lineup, using the Zen 4 (Raphael) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 32 threads. Ryzen 9 7950X has 64 MB of L3 cache and operates at 4.5 GHz by default, but can boost up to 5.7 GHz, depending on the workload. AMD is making the Ryzen 9 7950X on a 5 nm production node using 13.1 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. You may freely adjust the unlocked multiplier on Ryzen 9 7950X, which simplifies overclocking greatly, as you can easily dial in any overclocking frequency.\nWith a TDP of 170 W, the Ryzen 9 7950X is extremely power hungry, which means you need top-notch cooling. AMD's processor supports DDR5 memory with a dual-channel i",
+            "metadata": {
+              "title": "AMD Ryzen 9 7950X Specs | TechPowerUp CPU Database",
+              "source_path": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7950X.html",
+              "source_unit_type": "html_document",
+              "character_count": 7640,
+              "extraction_status": "success",
+              "series": "Ryzen 9",
+              "architecture": "Zen 4",
+              "socket": "AMD Socket AM5",
+              "codename": "Raphael",
+              "released": "Sep 27th, 2022",
+              "memory_type": "DDR5",
+              "memory_channels": "Dual-channel",
+              "memory_bandwidth": "83.2 GB/s",
+              "cache_l1": "64 KB (per core)",
+              "cache_l2": "1 MB (per core)",
+              "cache_l3": "64 MB",
+              "process_nm": 5,
+              "base_clock_ghz": 4.5,
+              "boost_clock_ghz": 5.7,
+              "tdp_w": 170,
+              "memory_speed_mts": 5200,
+              "cores": 16,
+              "threads": 32,
+              "ecc_memory": true
+            },
+            "score": 10.043776502745049,
+            "strategy": "bm25"
+          },
+          {
+            "id": "amd-ryzen-9-7950x-p1-paragraph-2",
+            "source_id": "amd-ryzen-9-7950x",
+            "source": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7950X.html",
+            "page": 1,
+            "text": "Modder Fits RTX 5090 With Four 8-Pin Connectors, Halving Current per Wire\n(80)\n\nCPU Database\n\nAMD Ryzen 9\n\nAMD Ryzen 9 7950X Specs\n\nReport an Error\n\nAMD Ryzen 9 7950X\n\n16\n\nCores\n\n32\n\nThreads\n\n170 W\n\nTDP\n\n4.5 GHz\n\nFrequency\n\n5.7 GHz\n\nBoost\n\nRaphael\n\nCodename\n\nSocket AM5\n\nSocket\n\nGamers Nexus\n\nFront\n\nPackage\n\nDelidded\n\nInstalled\n\nBack\n\nConnectivity\n\nAMD Socket AM5",
+            "metadata": {
+              "title": "AMD Ryzen 9 7950X Specs | TechPowerUp CPU Database",
+              "source_path": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7950X.html",
+              "source_unit_type": "html_document",
+              "character_count": 7640,
+              "extraction_status": "success",
+              "series": "Ryzen 9",
+              "architecture": "Zen 4",
+              "socket": "AMD Socket AM5",
+              "codename": "Raphael",
+              "released": "Sep 27th, 2022",
+              "memory_type": "DDR5",
+              "memory_channels": "Dual-channel",
+              "memory_bandwidth": "83.2 GB/s",
+              "cache_l1": "64 KB (per core)",
+              "cache_l2": "1 MB (per core)",
+              "cache_l3": "64 MB",
+              "process_nm": 5,
+              "base_clock_ghz": 4.5,
+              "boost_clock_ghz": 5.7,
+              "tdp_w": 170,
+              "memory_speed_mts": 5200,
+              "cores": 16,
+              "threads": 32,
+              "ecc_memory": true
+            },
+            "score": 8.95829553790978,
+            "strategy": "bm25"
+          },
+          {
+            "id": "amd-ryzen-9-7950x-p1-paragraph-4",
+            "source_id": "amd-ryzen-9-7950x",
+            "source": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7950X.html",
+            "page": 1,
+            "text": "nterface. The highest officially supported memory speed is 5200 MT/s, but with overclocking (and the right memory modules) you can go even higher. ECC memory is supported, too, which is an important capability for mission-critical systems, to avoid data corruption. For communication with other components in the machine, Ryzen 9 7950X uses a PCI-Express Gen 5 connection. This processor features the Radeon Graphics integrated graphics solution.\nHardware virtualization is available on the Ryzen 9 7950X, which greatly improves virtual machine performance. Programs using Advanced Vector Extensions (AVX) can run on this processor, boosting performance for calculation-heavy applications. Besides AVX, AMD has added support for the newer AVX2 and AVX-512 instructions, too.",
+            "metadata": {
+              "title": "AMD Ryzen 9 7950X Specs | TechPowerUp CPU Database",
+              "source_path": "C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7950X.html",
+              "source_unit_type": "html_document",
+              "character_count": 7640,
+              "extraction_status": "success",
+              "series": "Ryzen 9",
+              "architecture": "Zen 4",
+              "socket": "AMD Socket AM5",
+              "codename": "Raphael",
+              "released": "Sep 27th, 2022",
+              "memory_type": "DDR5",
+              "memory_channels": "Dual-channel",
+              "memory_bandwidth": "83.2 GB/s",
+              "cache_l1": "64 KB (per core)",
+              "cache_l2": "1 MB (per core)",
+              "cache_l3": "64 MB",
+              "process_nm": 5,
+              "base_clock_ghz": 4.5,
+              "boost_clock_ghz": 5.7,
+              "tdp_w": 170,
+              "memory_speed_mts": 5200,
+              "cores": 16,
+              "threads": 32,
+              "ecc_memory": true
+            },
+            "score": 8.452712120178619,
+            "strategy": "bm25"
+          }
+        ],
+        "context": "[amd-ryzen-9-7950x-p1-paragraph-3 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7950X.html | page 1]\nThe AMD Ryzen 9 7950X is a desktop processor with 16 cores, launched in September 2022, at an MSRP of $699. It is part of the Ryzen 9 lineup, using the Zen 4 (Raphael) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 32 threads. Ryzen 9 7950X has 64 MB of L3 cache and operates at 4.5 GHz by default, but can boost up to 5.7 GHz, depending on the workload. AMD is making the Ryzen 9 7950X on a 5 nm production node using 13.1 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. You may freely adjust the unlocked multiplier on Ryzen 9 7950X, which simplifies overclocking greatly, as you can easily dial in any overclocking frequency.\nWith a TDP of 170 W, the Ryzen 9 7950X is extremely power hungry, which means you need top-notch cooling. AMD's processor supports DDR5 memory with a dual-channel i\n\n[amd-ryzen-9-7950x-p1-paragraph-2 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7950X.html | page 1]\nModder Fits RTX 5090 With Four 8-Pin Connectors, Halving Current per Wire\n(80)\n\nCPU Database\n\nAMD Ryzen 9\n\nAMD Ryzen 9 7950X Specs\n\nReport an Error\n\nAMD Ryzen 9 7950X\n\n16\n\nCores\n\n32\n\nThreads\n\n170 W\n\nTDP\n\n4.5 GHz\n\nFrequency\n\n5.7 GHz\n\nBoost\n\nRaphael\n\nCodename\n\nSocket AM5\n\nSocket\n\nGamers Nexus\n\nFront\n\nPackage\n\nDelidded\n\nInstalled\n\nBack\n\nConnectivity\n\nAMD Socket AM5\n\n[amd-ryzen-9-7950x-p1-paragraph-4 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7950X.html | page 1]\nnterface. The highest officially supported memory speed is 5200 MT/s, but with overclocking (and the right memory modules) you can go even higher. ECC memory is supported, too, which is an important capability for mission-critical systems, to avoid data corruption. For communication with other components in the machine, Ryzen 9 7950X uses a PCI-Express Gen 5 connection. This processor features the Radeon Graphics integrated graphics solution.\nHardware virtualization is available on the Ryzen 9 7950X, which greatly improves virtual machine performance. Programs using Advanced Vector Extensions (AVX) can run on this processor, boosting performance for calculation-heavy applications. Besides AVX, AMD has added support for the newer AVX2 and AVX-512 instructions, too.",
+        "context_ids": [
+          "amd-ryzen-9-7950x-p1-paragraph-3",
+          "amd-ryzen-9-7950x-p1-paragraph-2",
+          "amd-ryzen-9-7950x-p1-paragraph-4"
+        ],
+        "context_chars": 2706
+      },
+      {
+        "event": "answer_decision",
+        "model_abstain": true,
+        "model_answer": "The retrieved evidence does not specify the maximum number of 8K monitors supported by the Ryzen 9 7950X.",
+        "model_citations": []
+      }
+    ],
+    "final_context": "[amd-ryzen-9-7950x-p1-paragraph-3 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7950X.html | page 1]\nThe AMD Ryzen 9 7950X is a desktop processor with 16 cores, launched in September 2022, at an MSRP of $699. It is part of the Ryzen 9 lineup, using the Zen 4 (Raphael) architecture with Socket AM5. Thanks to AMD Simultaneous Multithreading (SMT) each core can process two instruction streams in parallel, making better use of available hardware units, for a total of 32 threads. Ryzen 9 7950X has 64 MB of L3 cache and operates at 4.5 GHz by default, but can boost up to 5.7 GHz, depending on the workload. AMD is making the Ryzen 9 7950X on a 5 nm production node using 13.1 billion transistors. The silicon die of the chip is not fabricated at AMD, but at the foundry of TSMC. You may freely adjust the unlocked multiplier on Ryzen 9 7950X, which simplifies overclocking greatly, as you can easily dial in any overclocking frequency.\nWith a TDP of 170 W, the Ryzen 9 7950X is extremely power hungry, which means you need top-notch cooling. AMD's processor supports DDR5 memory with a dual-channel i\n\n[amd-ryzen-9-7950x-p1-paragraph-2 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7950X.html | page 1]\nModder Fits RTX 5090 With Four 8-Pin Connectors, Halving Current per Wire\n(80)\n\nCPU Database\n\nAMD Ryzen 9\n\nAMD Ryzen 9 7950X Specs\n\nReport an Error\n\nAMD Ryzen 9 7950X\n\n16\n\nCores\n\n32\n\nThreads\n\n170 W\n\nTDP\n\n4.5 GHz\n\nFrequency\n\n5.7 GHz\n\nBoost\n\nRaphael\n\nCodename\n\nSocket AM5\n\nSocket\n\nGamers Nexus\n\nFront\n\nPackage\n\nDelidded\n\nInstalled\n\nBack\n\nConnectivity\n\nAMD Socket AM5\n\n[amd-ryzen-9-7950x-p1-paragraph-4 | C:\\Users\\DELL\\Nextcloud\\AIinAction\\Day6Lab\\K5-L3-Day06-2A202603658-NguyenSonTung-DataIngestionEngineering\\starter\\data\\AMD Ryzen 9 7950X.html | page 1]\nnterface. The highest officially supported memory speed is 5200 MT/s, but with overclocking (and the right memory modules) you can go even higher. ECC memory is supported, too, which is an important capability for mission-critical systems, to avoid data corruption. For communication with other components in the machine, Ryzen 9 7950X uses a PCI-Express Gen 5 connection. This processor features the Radeon Graphics integrated graphics solution.\nHardware virtualization is available on the Ryzen 9 7950X, which greatly improves virtual machine performance. Programs using Advanced Vector Extensions (AVX) can run on this processor, boosting performance for calculation-heavy applications. Besides AVX, AMD has added support for the newer AVX2 and AVX-512 instructions, too.",
+    "final_context_ids": [
+      "amd-ryzen-9-7950x-p1-paragraph-3",
+      "amd-ryzen-9-7950x-p1-paragraph-2",
+      "amd-ryzen-9-7950x-p1-paragraph-4"
+    ],
+    "model_calls": 2,
+    "token_usage": {
+      "prompt": 1587,
+      "completion": 458
+    },
+    "elapsed_ms": 84074.92320000893
+  }
+]

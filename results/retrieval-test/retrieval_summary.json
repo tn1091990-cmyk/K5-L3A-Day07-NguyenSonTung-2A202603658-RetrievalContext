@@ -1,0 +1,46 @@
+{
+  "split": "test",
+  "corpus_documents": 30,
+  "chunks": 270,
+  "embedding_model": "embeddinggemma-2",
+  "embedding_dimensions": 768,
+  "vector_strategy": "B",
+  "methods": {
+    "test/bm25_k1_1.5_b_0.75_top3": {
+      "answerable_n": 5,
+      "Hit@1": {
+        "n": 4,
+        "N": 5
+      },
+      "Evidence_Hit@3": {
+        "n": 5,
+        "N": 5
+      },
+      "Context_Evidence_Rate": {
+        "n": 5,
+        "N": 5
+      },
+      "median_ms": 0.4726000042865053,
+      "unanswerable_queries": 2,
+      "service_cost_usd": 0
+    },
+    "test/selected_bm25_k1_0.8_b_0.25_budget3600": {
+      "answerable_n": 5,
+      "Hit@1": {
+        "n": 5,
+        "N": 5
+      },
+      "Evidence_Hit@3": {
+        "n": 5,
+        "N": 5
+      },
+      "Context_Evidence_Rate": {
+        "n": 5,
+        "N": 5
+      },
+      "median_ms": 0.4597999941324815,
+      "unanswerable_queries": 2,
+      "service_cost_usd": 0
+    }
+  }
+}

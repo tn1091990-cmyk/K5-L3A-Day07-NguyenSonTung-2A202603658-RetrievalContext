@@ -1,0 +1,12 @@
+{
+  "split": "dev",
+  "method": "hybrid",
+  "model": "embeddinggemma-2",
+  "model_calls": 0,
+  "case_count": 17,
+  "answered": 0,
+  "abstained": 0,
+  "errors": 17,
+  "median_ms": 1359.2599000112386,
+  "manual_review_required": "Grounded answer, citation support, and abstention labels must be filled after reading traces and source chunks."
+}

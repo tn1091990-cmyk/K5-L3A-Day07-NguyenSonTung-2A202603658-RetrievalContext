@@ -1,0 +1,12 @@
+{
+  "split": "dev",
+  "method": "bm25",
+  "model": "gemma-4-E4B-it-UD-Q4_K_XL.gguf",
+  "model_calls": 34,
+  "case_count": 17,
+  "answered": 13,
+  "abstained": 4,
+  "errors": 0,
+  "median_ms": 63258.033099991735,
+  "manual_review_required": "Grounded answer, citation support, and abstention labels must be filled after reading traces and source chunks."
+}

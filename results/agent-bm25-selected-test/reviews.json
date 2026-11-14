@@ -1,0 +1,57 @@
+[
+  {
+    "query_id": "T01",
+    "citation_support": [
+      true,
+      true
+    ],
+    "review_note": "Manually checked the answer or abstention and each cited chunk against final context/source.",
+    "answer_grade": 2
+  },
+  {
+    "query_id": "T02",
+    "citation_support": [
+      true,
+      true
+    ],
+    "review_note": "Manually checked the answer or abstention and each cited chunk against final context/source.",
+    "answer_grade": 2
+  },
+  {
+    "query_id": "T03",
+    "citation_support": [
+      true
+    ],
+    "review_note": "Manually checked the answer or abstention and each cited chunk against final context/source.",
+    "answer_grade": 2
+  },
+  {
+    "query_id": "T04",
+    "citation_support": [
+      true,
+      true
+    ],
+    "review_note": "Manually checked the answer or abstention and each cited chunk against final context/source.",
+    "answer_grade": 2
+  },
+  {
+    "query_id": "T05",
+    "citation_support": [
+      true
+    ],
+    "review_note": "Manually checked the answer or abstention and each cited chunk against final context/source.",
+    "answer_grade": 2
+  },
+  {
+    "query_id": "T06",
+    "citation_support": [],
+    "review_note": "Manually checked the answer or abstention and each cited chunk against final context/source.",
+    "abstention_correct": true
+  },
+  {
+    "query_id": "T07",
+    "citation_support": [],
+    "review_note": "Manually checked the answer or abstention and each cited chunk against final context/source.",
+    "abstention_correct": true
+  }
+]

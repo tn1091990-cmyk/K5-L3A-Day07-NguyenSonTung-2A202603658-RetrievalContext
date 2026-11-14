@@ -1,0 +1,118 @@
+{
+  "split": "dev",
+  "corpus_documents": 30,
+  "chunks": 270,
+  "embedding_model": "embeddinggemma-2",
+  "embedding_dimensions": 768,
+  "vector_strategy": "B",
+  "methods": {
+    "dev/bm25_k1_1.5_b_0.75_top3": {
+      "answerable_n": 15,
+      "Hit@1": {
+        "n": 11,
+        "N": 15
+      },
+      "Evidence_Hit@3": {
+        "n": 15,
+        "N": 15
+      },
+      "Context_Evidence_Rate": {
+        "n": 14,
+        "N": 15
+      },
+      "median_ms": 0.6431999936467037,
+      "unanswerable_queries": 2,
+      "service_cost_usd": 0
+    },
+    "dev/day6_dense_B_top3": {
+      "answerable_n": 15,
+      "Hit@1": {
+        "n": 13,
+        "N": 15
+      },
+      "Evidence_Hit@3": {
+        "n": 14,
+        "N": 15
+      },
+      "Context_Evidence_Rate": {
+        "n": 14,
+        "N": 15
+      },
+      "median_ms": 63.13040001259651,
+      "unanswerable_queries": 2,
+      "service_cost_usd": 0
+    },
+    "dev/experiment_bm25_k1_0.8_b_0.25": {
+      "answerable_n": 15,
+      "Hit@1": {
+        "n": 14,
+        "N": 15
+      },
+      "Evidence_Hit@3": {
+        "n": 15,
+        "N": 15
+      },
+      "Context_Evidence_Rate": {
+        "n": 15,
+        "N": 15
+      },
+      "median_ms": 0.8723000064492226,
+      "unanswerable_queries": 2,
+      "service_cost_usd": 0
+    },
+    "dev/experiment_bm25_tuned_budget3600": {
+      "answerable_n": 15,
+      "Hit@1": {
+        "n": 14,
+        "N": 15
+      },
+      "Evidence_Hit@3": {
+        "n": 15,
+        "N": 15
+      },
+      "Context_Evidence_Rate": {
+        "n": 15,
+        "N": 15
+      },
+      "median_ms": 0.5571999936364591,
+      "unanswerable_queries": 2,
+      "service_cost_usd": 0
+    },
+    "dev/experiment_hybrid_budget1200": {
+      "answerable_n": 15,
+      "Hit@1": {
+        "n": 13,
+        "N": 15
+      },
+      "Evidence_Hit@3": {
+        "n": 15,
+        "N": 15
+      },
+      "Context_Evidence_Rate": {
+        "n": 13,
+        "N": 15
+      },
+      "median_ms": 66.71400000050198,
+      "unanswerable_queries": 2,
+      "service_cost_usd": 0
+    },
+    "dev/hybrid_rrf60_top3": {
+      "answerable_n": 15,
+      "Hit@1": {
+        "n": 13,
+        "N": 15
+      },
+      "Evidence_Hit@3": {
+        "n": 15,
+        "N": 15
+      },
+      "Context_Evidence_Rate": {
+        "n": 14,
+        "N": 15
+      },
+      "median_ms": 72.74089999555144,
+      "unanswerable_queries": 2,
+      "service_cost_usd": 0
+    }
+  }
+}

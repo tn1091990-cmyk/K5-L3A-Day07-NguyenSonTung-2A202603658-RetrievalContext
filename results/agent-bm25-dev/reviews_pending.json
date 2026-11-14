@@ -1,0 +1,140 @@
+[
+  {
+    "query_id": "D01",
+    "citation_support": [
+      null
+    ],
+    "review_status": "pending",
+    "answer_grade": null
+  },
+  {
+    "query_id": "D02",
+    "citation_support": [
+      null,
+      null
+    ],
+    "review_status": "pending",
+    "answer_grade": null
+  },
+  {
+    "query_id": "D03",
+    "citation_support": [
+      null
+    ],
+    "review_status": "pending",
+    "answer_grade": null
+  },
+  {
+    "query_id": "D04",
+    "citation_support": [
+      null
+    ],
+    "review_status": "pending",
+    "answer_grade": null
+  },
+  {
+    "query_id": "D05",
+    "citation_support": [
+      null,
+      null
+    ],
+    "review_status": "pending",
+    "answer_grade": null
+  },
+  {
+    "query_id": "D06",
+    "citation_support": [
+      null
+    ],
+    "review_status": "pending",
+    "answer_grade": null
+  },
+  {
+    "query_id": "D07",
+    "citation_support": [
+      null,
+      null
+    ],
+    "review_status": "pending",
+    "answer_grade": null
+  },
+  {
+    "query_id": "D08",
+    "citation_support": [
+      null
+    ],
+    "review_status": "pending",
+    "answer_grade": null
+  },
+  {
+    "query_id": "D09",
+    "citation_support": [
+      null
+    ],
+    "review_status": "pending",
+    "answer_grade": null
+  },
+  {
+    "query_id": "D10",
+    "citation_support": [
+      null,
+      null
+    ],
+    "review_status": "pending",
+    "answer_grade": null
+  },
+  {
+    "query_id": "D11",
+    "citation_support": [
+      null
+    ],
+    "review_status": "pending",
+    "answer_grade": null
+  },
+  {
+    "query_id": "D12",
+    "citation_support": [
+      null
+    ],
+    "review_status": "pending",
+    "answer_grade": null
+  },
+  {
+    "query_id": "D13",
+    "citation_support": [
+      null,
+      null
+    ],
+    "review_status": "pending",
+    "answer_grade": null
+  },
+  {
+    "query_id": "D14",
+    "citation_support": [
+      null
+    ],
+    "review_status": "pending",
+    "answer_grade": null
+  },
+  {
+    "query_id": "D15",
+    "citation_support": [
+      null,
+      null
+    ],
+    "review_status": "pending",
+    "answer_grade": null
+  },
+  {
+    "query_id": "D16",
+    "citation_support": [],
+    "review_status": "pending",
+    "abstention_correct": null
+  },
+  {
+    "query_id": "D17",
+    "citation_support": [],
+    "review_status": "pending",
+    "abstention_correct": null
+  }
+]
